@@ -12,7 +12,7 @@ It is somewhat arbitrary where one might stop in the ancient history of astronom
 
 ## Unit Outline
 
-### Term 4
+### Term 2
 
 Please examine the table of contents of the book by James Evans (preferably with a physical copy) that we will use as our guide. The outline is:
 
@@ -21,7 +21,7 @@ Please examine the table of contents of the book by James Evans (preferably with
 3. Some Applications of Spherics (includes making Sundials!)
 4. Calendars and Time Reckoning
 
-### Term 5
+### Term 3
 
 5. Solar Theory
 6. The Fixed Stars
@@ -31,8 +31,7 @@ Please examine the table of contents of the book by James Evans (preferably with
 
 Detailed daily schedules will be kept retrospectively:
 
-* [Daily Schedule Term 4](./daily_schedule-term_4.html)
-* [Daily Schedule Term 5](./daily_schedule-term_5.html)
+* [Daily Schedule Term 2 -- FORTHCOMING](./daily_schedule-term_2.html)
 
 ## Text
 
