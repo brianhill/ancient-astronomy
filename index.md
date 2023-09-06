@@ -1,6 +1,10 @@
-# Methods and Results of Ancient Astronomy &mdash; Syllabus
+# Methods and Results of Ancient Astronomy
 
 Fall 2023, Deep Springs College, Prof. [Brian Hill, https://brianhill.github.io](https://brianhill.github.io)
+
+## Syllabus
+
+A [PDF of the Syllabus](./AncientAstronomySyllabus.pdf) containing essentially the same information as is on these web pages.
 
 ## Overview
 
