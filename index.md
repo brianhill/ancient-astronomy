@@ -1,6 +1,6 @@
 # Methods and Results of Ancient Astronomy
 
-Fall 2023, Deep Springs College, Prof. [Brian Hill, https://brianhill.github.io](https://brianhill.github.io)
+Fall 2023, Deep Springs College, [Prof. Brian Hill](https://brianhill.github.io)
 
 ## Syllabus
 
@@ -18,7 +18,7 @@ Our author is principally focused on the astronomy of the Greeks. The reasons ar
 
 ### Term 2
 
-Please examine the table of contents of the book by James Evans that we will use as our guide. His broad outline is:
+Please examine the table of contents of Evans' book that we will be using as our guide. His broad outline fits into our Term 2 as:
 
 1. The Birth of Astronomy
 2. The Celestial Sphere
@@ -27,18 +27,20 @@ Please examine the table of contents of the book by James Evans that we will use
 
 ### Term 3
 
+And our Term 3 as:
+
 5. Solar Theory
 6. The Fixed Stars
 7. Planetary Theory
 
-The detailed table of contents is reproduced on the following pages.
+Evans' [Full Table of Contents](./AncientAstronomyFullTableOfContents-JamesEvans.pdf) is linked for convenience.
 
 ## Daily Schedules
 
 Detailed daily schedules will be kept retrospectively:
 
-* [https://brianhill.github.io/ancient-astronomy/daily\_schedule-term\_2.html](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_2.html)
-* [https://brianhill.github.io/ancient-astronomy/daily\_schedule-term\_3.html](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_3.html)
+* [Daily Schedule-Term 2](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_2.html)
+* [Daily Schedule-Term 3](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_3.html)
 
 ## Text
 
