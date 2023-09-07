@@ -10,9 +10,9 @@ A [PDF of the Syllabus](./AncientAstronomySyllabus.pdf) containing essentially t
 
 It is perhaps arbitrary where one might stop in the history of astronomy and astrophysics and deem whatever follows to be &ldquo;modern.&rdquo; For our purposes, &ldquo;ancient&rdquo; means anything and everything up to but not including or beyond Brahe, Kepler, and Galileo. The shift that occurred very roughly at 1600, although actually it was progressive, not sudden, was to a process of increasing exactitude, that begins with Brahe's careful observations at Uraniborg, and then accelerated massively by the invention and use of the telescope.
 
-We will be confining our survey to the science prior to the telescope. While this does not include much &ldquo;modern physical science&rdquo; it is nonetheless high-quality and instructive science that set the stage for all that came after. I could not create such a survey myself; my understanding of astronomy and astrophysics starts with Kepler and his Three Laws, and so I will be learning the history prior to this along with you.
+We will be confining our survey to the science prior to the telescope. While this does not include much &ldquo;modern&rdquo; physical science it is nonetheless high-quality and instructive science that set the stage for all that came after, and it is accessible in terms of cost and ease of construction of apparatus, and its usage for making observations. I could not create such a survey myself; my understanding of astronomy and astrophysics and its instrumentation starts with Kepler and his Three Laws, and so I will be learning the history prior to this along with you.
 
-Our author is principally focused on the astronomy of the Greeks. The reasons are two-fold: (1) prior to the Greeks, astronomy was quite inexact, and (2) for century after century following the Greeks, Ptolemy's *Almagest* held sway. Even Copernicus in 1543, while disputing the Earth-centered universe in his *On the Revolutions of the Heavenly Spheres,* is tremendously influenced by Ptolemy. Only towards the end of the final two chapters will we leave a Ptolemaic view and get to the theories and observations of Copernicus, Brahe, and Kepler.
+Our author is principally focused on the astronomy of the Greeks. The reasons are two-fold: (1) prior to the Greeks, astronomy was quite inexact, and (2) for century after century following the Greeks, Ptolemy's *Almagest* held sway, even as it was translated, commented on, and elaborated. Even Copernicus in 1543, while disputing the Earth-centered universe in his *On the Revolutions of the Heavenly Spheres,* is tremendously influenced by Ptolemy. Only towards the end of the final two chapters does our author get to Copernicus, and then finally leave the Ptolemaic view with the observations and theories of Brahe and Kepler.
 
 ## Unit Outline
 
@@ -53,6 +53,8 @@ Detailed daily schedules will be kept retrospectively:
 * 20% midterm (near the end of term 2)
 * 20% final (near the end of term 3)
 * 20% thorough preparation for class, leadership of class discussion, and maintenance of the course's pace and direction
+
+The observational work will generally, but not always, be at night. Reports on apparatus and observations, just like lab reports in a regular laboratory class, will frequently be submitted or presented.
 
 ## Absences
 
