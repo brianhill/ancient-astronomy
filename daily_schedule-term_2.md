@@ -12,7 +12,7 @@ Course [home page](./)
 * Preparation for Monday, Sept. 4 &mdash; Continue in Evans to p. 44 &mdash; Turn in as homework and prepare to present the activities described in Evans Sections 1.3 and 1.5 &mdash; Look ahead in Evans to develop an opinion on what we should cover and present (assigning ourselves supplementary reading is possible!) for the next class
 * Monday, Sept. 4 &mdash; Gnomon presentations and a sample [Gnomon Report](./assignments/GnomonReport.pdf) &mdash; Closer examination of figures 1.17 to 1.20 using the [Spherical Concepts](https://www.omniterrum.com/product-category/sold/sold-globe-novelties/cw215art88) celestial sphere &mdash; 366.24 revolutions of the stars per year vs. 365.24 days in a year &mdash; Pixzul's [Zodiacal Motion Animation](./resources/ZodiacalMotionAnimation.mp4)
 * Preparation for Thursday, Sept. 7 &mdash; Continue in Evans to p. 58 &mdash; Prepare *two* presentations to share (about five minutes for each presentation) relating in any significant way to the material on pp. 39-58 &mdash; As one project, consider doing something with the [Pardies Celestial Cube from David Rumsey](./resources/StarChartsAndGlobes/PardiesCelestialCubeFromDavidRumsey.jpg) that everyone got an 11&ldquo;x17&rdquo; photocopy of &mdash; Here is additional source material for the more artistic among you relating to [Star Charts and Globes](./resources/StarChartsAndGlobes/index.html)
-* Thursday, Sept. 7 &mdash; [Presentations on pp. 39-58](./assignments/presentation_notes-2023-09-07.md)
+* Thursday, Sept. 7 &mdash; [Presentations relating to the material on pp. 39-58](./assignments/presentation_notes-2023-09-07.md)
 
 ### Week 3
 
