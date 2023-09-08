@@ -61,13 +61,13 @@ Dioptra pointed at Mizar
 
 Four hours after the dioptra was set up, Mizar and the whole Big Dipper handle are below the horizon. The Pointer stars of the Big Dipper are just coming up &mdash; They point to Polaris which hasn't moved
 
-![Pointer stars of Big Dipper rising above the horizon](./Dioptra00.jpeg)
+![Pointer stars of Big Dipper rising above the horizon](./Dioptra01.jpeg)
 
 Compound dioptra with primary tube pointed at Polaris and secondary tube pointed at Jupiter rising in the east
 
 ![A reddish and faint picture of a compound dioptra with Jupiter shining brightly in the east](./Dioptra10.jpeg)
 
-The same region of sky as Jupiter was in about three hours later &mdash; ow the Moon, the Hyades, and the Pleiades dominate the eastern sky and Jupiter has gone out of frame to the SE
+The same region of sky as Jupiter was in about three hours later &mdash; now the Moon, the Hyades, and the Pleiades dominate the eastern sky and Jupiter has gone out of frame to the SE
 
 ![A bright moon, Hyades, and the Pleiades rising in the east over telephone poles and telephone wires](./Dioptra11.jpeg)
 
