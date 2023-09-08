@@ -67,5 +67,7 @@ The same region of sky as Jupiter was in &mdash; now the Moon, the Hyades, and t
 
 ![A bright moon, Hyades, and the Pleiades rising in the east over telephone poles and telephone wires](./Dioptra3.jpeg)
 
-![alt text](./Dioptra4.jpeg)
+Four hours after the dioptra was set up, Mizar and the whole Big Dipper handle are below the horizon. The Pointer stars of the Big Dipper are just coming up. They point to Polaris which hasn't moved.
+
+![Pointer stars of Big Dipper rising above the horizon](./Dioptra4.jpeg)
 
