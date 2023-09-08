@@ -55,4 +55,10 @@ Lovely drawings of the sky when facing the direction of Henderson of sky at 9pm 
 
 Demonstration of use of dioptra (pointed at Mizar) and compound dioptra (pointed at Polaris and Jupiter).
 
+![alt text](./Dioptra1.jpeg)
 
+![alt text](./Dioptra2.jpeg)
+
+![alt text](./Dioptra3.jpeg)
+
+![alt text](./Dioptra4.jpeg)
