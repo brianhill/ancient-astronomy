@@ -55,10 +55,17 @@ Lovely drawings of the sky when facing the direction of Henderson of sky at 9pm 
 
 Demonstration of use of dioptra (pointed at Mizar) and compound dioptra (pointed at Polaris and Jupiter).
 
-![alt text](./Dioptra1.jpeg)
+Dioptra pointed at Mizar
 
-![alt text](./Dioptra2.jpeg)
+![A very faint picture of a tube oriented to point at Mizar](./Dioptra1.jpeg)
 
-![alt text](./Dioptra3.jpeg)
+Compound dioptra with primary tube pointed at Polaris and secondary tube pointed at Jupiter rising in the east
+
+![A reddish and faint picture of a compound dioptra with Jupiter shining brightly in the east](./Dioptra2.jpeg)
+
+The same region of sky as Jupiter was in &mdash; now the Moon, the Hyades, and the Pleiades dominate the eastern sky and Jupiter has gone out of frame to the SE
+
+![A bright moon, Hyades, and the Pleiades rising in the east over telephone poles and telephone wires](./Dioptra3.jpeg)
 
 ![alt text](./Dioptra4.jpeg)
+
