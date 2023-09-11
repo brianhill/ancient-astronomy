@@ -14,6 +14,13 @@ We will be confining our survey to the science prior to the telescope. While thi
 
 Our author is principally focused on the astronomy of the Greeks. The reasons are two-fold: (1) prior to the Greeks, astronomy was quite inexact, and (2) for century after century following the Greeks, Ptolemy's *Almagest* held sway, even as it was translated, commented on, and elaborated. Even Copernicus in 1543, while disputing the Earth-centered universe in his *On the Revolutions of the Heavenly Spheres,* is tremendously influenced by Ptolemy. Only towards the end of the final two chapters does our author get to Copernicus, and then finally leave the Ptolemaic view with the observations and theories of Brahe and Kepler.
 
+## Daily Schedules
+
+Detailed daily schedules will be kept retrospectively:
+
+* [Daily Schedule-Term 2](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_2.html)
+* [Daily Schedule-Term 3](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_3.html)
+
 ## Unit Outline
 
 ### Term 2
@@ -33,14 +40,7 @@ And our Term 3 as:
 6. The Fixed Stars
 7. Planetary Theory
 
-Evans' [Full Table of Contents](./AncientAstronomyFullTableOfContents-JamesEvans.pdf) is linked for convenience.
-
-## Daily Schedules
-
-Detailed daily schedules will be kept retrospectively:
-
-* [Daily Schedule-Term 2](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_2.html)
-* [Daily Schedule-Term 3](https://brianhill.github.io/ancient-astronomy/daily_schedule-term_3.html)
+Evans' [Full Table of Contents](./AncientAstronomyFullTableOfContents-JamesEvans.pdf) provides further detail.
 
 ## Text
 
