@@ -1,6 +1,6 @@
-## Charting the Zodiac
+## Charting the Zodiac Kit
 
-This is a little kit for making a lovely 11&rdquo;x17&rdquo; chart of the Zodiac. The kit has three components.
+This is a little kit for making a nice 11&rdquo;x17&rdquo; chart of the Zodiac. The kit has three components.
 
 Trust me that there is no end of pedagogical value in taking several hours to make a nice star chart, even though it is a fairly atypical astronomy assignment.
 

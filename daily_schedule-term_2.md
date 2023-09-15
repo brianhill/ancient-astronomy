@@ -19,7 +19,7 @@ Course [home page](./)
 * Preparation for Monday, Sept. 11 &mdash; Continue in Evans to end of Chapter 1, p. 74 &mdash; Please add one more 5-minute presentation on any topic of your choice relating to the remainder of Chapter 1 &mdash; Turn in as Assignment 2 the exercise described in Evans Section 1.18, pp. 73-74 (this is a many-part problem, so budget lots of time to complete it, but you can just use 1/2&deg; for the angular diameter of the Moon rather than attempting to measure it, and [here is the picture](./assignments/1981LunarEclipseBrianPopp.png) he refers to) &mdash; Also turn in as Assignment 2 two drawings showing the diurnal motion of the night sky *&agrave; la* Rania's (*e.g.,* two drawings of a substantial region of the night sky at least two hours apart)
 * Monday, Sept. 11 &mdash; Handed out [15 Brightest Stars](./resources/15BrightestStars-September.pdf) visible at our latitude, with notations on the 6 that are easy to locate in the evening in September &mdash; Presentation by Hexi: [Using your hand for estimating angles](./resources/AngularEstimationUsingYourHand.png)
 * Preparation for Thursday, Sept. 14 &mdash; Reading for Thursday, photocopy Chapter 2 of Evans if your copy hasn't arrived, and read through Section 2.4, p. 91 &mdash; Presentations coming from Rania, Clara, Mac, and Walker
-* Thursday, Sept. 14 &mdash; Thursday presentations: Clara, the Transit of Venus of 1769 (answers the question, how did humans finally learn the distance to the Sun!); Rania, the calculations of Aristarchus; Mac, the calculations of Eratosthenes; Walker, Changes in the declination of the sun over millenia &mdash; Aristarchus calculation distributed &mdash; Eratosthenes calculation distributed
+* Thursday, Sept. 14 &mdash; Thursday presentations: Clara, the Transit of Venus of 1769 (answers the question, how did humans finally learn the distance to the Sun!); Rania, the calculations of Aristarchus; Mac, the calculations of Eratosthenes; Walker, Changes in the declination of the sun over millenia &mdash; [Eratosthenes - Size of Earth](./resources/EratosthenesSizeOfEarth.pdf) calculation distributed &mdash; [Aristarchus - Size of Moon](./resources/AristarchusSizeOfMoon.pdf) calculation distributed
 
 ### Week 4 &mdash; Geometry on the Celestial Sphere
 
@@ -27,6 +27,7 @@ Course [home page](./)
 
 * Please keep collectively deciding what the in-class presentations and homework assignments should be &mdash; Any of the Evans exercises in our reading are prime candidates &mdash; Hexi has located a well-regarded translation of *The Almagest* and she may propose reading selections from it
 
+![Waning gibbous moon high in the morning sky](./resources/MorningMoonSept5.jpeg)
+
 Waning gibbous Moon (about to become third quarter), very high in the eastern sky on Tuesday morning, Sept. 5 &mdash; Is it fair to describe it as being &ldquo;ahead&rdquo; of the Sun? (Why?) &mdash; If you saw it in the east after sunset (which you will starting around Saturday, Sept. 16) would it then be fair to say it had fallen behind the Sun?
 
-![Waning gibbous moon high in the morning sky](./resources/MorningMoonSept5.jpeg)
