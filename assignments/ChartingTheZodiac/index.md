@@ -15,3 +15,7 @@ This blank [Lambert Projection](./LambertProjection-ZodiacFocused.pdf) focused o
 ### Component 3: A Sample Showing Scorpius
 
 This [Sample Showing Scorpius](./SampleShowingScorpius.jpeg) gives you an idea of what you have to do to get started. It shows the declination axis labeled from -42&deg; to +42&deg; in increments of 3&deg;. It shows the right ascension axis labled from 20h on the left, counting down to 0h and then counting down again 23h, 22h, 21h, and 20h again further to the right. It shows the minutes of right ascension counting down 48, 36, 24, 12, over and over again for each hour of right ascension. It shows symbols you can use for magnitude 1, 2, 3, and 4 stars, and finally, it shows the stars of Scorpius.
+
+## My Completed Chart
+
+[The Zodiacal Constellations](./TheZodiacalConstellations.jpeg)
