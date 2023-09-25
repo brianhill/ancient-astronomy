@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    976902,      16075]
-NotebookOptionsPosition[    975698,      16044]
-NotebookOutlinePosition[    976145,      16062]
-CellTagsIndexPosition[    976102,      16059]
+NotebookDataLength[    977446,      16084]
+NotebookOptionsPosition[    976242,      16053]
+NotebookOutlinePosition[    976689,      16071]
+CellTagsIndexPosition[    976646,      16068]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -75,9 +75,15 @@ Cell["2. Sign and Tens of the Sun on May 30th", "Section",
 7b7c76ca43bc"],
 
 Cell[TextData[{
- "(a) Three Zodiac constellations are visible on the chart below which is for \
-7pm on May 30th. One of the Zodiac constellations is labeled. What are the \
-other two?\n\n",
+ "You will be using the chart on the next page to do this problem.\n\n(a) \
+Three Zodiac constellations are visible on the chart which is a view of \
+sunset at 7pm on May 30th. One of the Zodiac constellations is at the center. \
+The Sun and two planets are in this constellation. Another Zodiac \
+constellation is faintly drawn. What is it?\n\n(b) A third is in the chart, \
+but isn\[CloseCurlyQuote]t even faintly drawn. What Zodiac constellation is \
+it?\n\n(c) The Sun is the big dark blob. Using the archaic notation in Table \
+2.4 on p. 110-111, estimate the Sign and Tens of the Sun at this time.\n\n(d) \
+Where will the Sun be in the stars in a month?\n\n",
  Cell[BoxData[
   GraphicsBox[
    TagBox[RasterBox[CompressedData["
@@ -15997,18 +16003,17 @@ qo//S93/1GAiqgP4p/4X200RZQ==
      MetaInformation -> <|"XMP" -> <||>|>],
     Selectable->False],
    DefaultBaseStyle->"ImageGraphics",
-   ImageSize->{319.9857299804688, Automatic},
+   ImageSize->{395.9371154785157, Automatic},
    ImageSizeRaw->{684., 666.},
    PlotRange->{{0, 684.}, {0, 666.}}]], "Input",ExpressionUUID->
   "39257c6d-0112-4ddd-be7a-6ba2fc8cebec"],
- "\n\n(b) The Sun is the big dark blob. Using the archaic notation in Table \
-2.4 on p. 110-111, estimate the Sign and Tens of the Sun at this time.\n\n(c) \
-Using your answer for (b), and the table, what is the Sign and Tens of what \
-is rising as the Sun is setting?"
+ "\n"
 }], "Text",
  CellChangeTimes->{{3.9045042114684343`*^9, 3.904504443244474*^9}, {
   3.9045048878285007`*^9, 3.90450498215483*^9}, {3.9045050147457857`*^9, 
-  3.90450519523418*^9}},ExpressionUUID->"d78e2968-eec0-40e5-8768-\
+  3.90450519523418*^9}, {3.904505757476321*^9, 3.9045058113634872`*^9}, {
+  3.904505868725608*^9, 3.904505965899666*^9}, {3.9045917130493803`*^9, 
+  3.904591785358666*^9}},ExpressionUUID->"d78e2968-eec0-40e5-8768-\
 47569feefa5e"]
 }, Open  ]],
 
@@ -16022,28 +16027,32 @@ Cell["3. Day and Night on May 30th", "Section",
 4a773d792a59"],
 
 Cell["\<\
-(a) Using Table 2.4 on pp. 210, and 211 what is the length of the night at \
+(a) Using your answer for 2(c), and the table, what is the Sign and Tens of \
+what is rising as the Sun is setting?
+
+(b) Using Table 2.4 on pp. 210, and 211 what is the length of the night at \
 Deep Springs in hours and minutes on May 30th? Please show your work clearly \
 so I can check it. Since there isn\[CloseCurlyQuote]t a column for Deep \
 Springs, use New London, Connecticut, which is about 4\.ba higher in latitude \
 than we are.
 
-(b) Again using Table 2.4 on pp. 210, and 211 what is the length of the day \
+(c) Again using Table 2.4 on pp. 210, and 211 what is the length of the day \
 on May 30th? Please show your work clearly.
 
-CROSS-CHECKS FOR SILLY MISTAKES: Does what you got in (a) and (b) add up to \
+CROSS-CHECKS FOR SILLY MISTAKES: Does what you got in (b) and (c) add up to \
 24 hours? It should. Is the day longer than the night? It better be. It is \
 pretty summery at Deep Springs on May 30th.
 \
 \>", "Text",
- CellChangeTimes->{{3.904505287240424*^9, 
-  3.90450553781997*^9}},ExpressionUUID->"87dd56ce-2b81-4b8f-91a3-\
+ CellChangeTimes->{{3.904505287240424*^9, 3.90450553781997*^9}, {
+  3.9045059710930977`*^9, 
+  3.904506010186899*^9}},ExpressionUUID->"87dd56ce-2b81-4b8f-91a3-\
 5ca056a28d3b"]
 }, Open  ]]
 }, Open  ]]
 },
 WindowSize->{808, 911},
-WindowMargins->{{329, Automatic}, {Automatic, 58}},
+WindowMargins->{{256, Automatic}, {Automatic, 60}},
 PrintingCopies->1,
 PrintingPageRange->{1, Automatic},
 FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (June 3, 2023)",
@@ -16070,11 +16079,11 @@ Cell[1742, 47, 812, 17, 242, "Text",ExpressionUUID->"d6a37ac9-6c04-49f5-95a5-c80
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[2591, 69, 329, 5, 67, "Section",ExpressionUUID->"d8901854-22a0-470d-8614-7b7c76ca43bc"],
-Cell[2923, 76, 971596, 15935, 508, "Text",ExpressionUUID->"d78e2968-eec0-40e5-8768-47569feefa5e"]
+Cell[2923, 76, 971972, 15940, 720, "Text",ExpressionUUID->"d78e2968-eec0-40e5-8768-47569feefa5e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[974556, 16016, 316, 5, 67, "Section",ExpressionUUID->"379a4c4a-f30d-4855-8151-4a773d792a59"],
-Cell[974875, 16023, 795, 17, 242, "Text",ExpressionUUID->"87dd56ce-2b81-4b8f-91a3-5ca056a28d3b"]
+Cell[974932, 16021, 316, 5, 67, "Section",ExpressionUUID->"379a4c4a-f30d-4855-8151-4a773d792a59"],
+Cell[975251, 16028, 963, 21, 288, "Text",ExpressionUUID->"87dd56ce-2b81-4b8f-91a3-5ca056a28d3b"]
 }, Open  ]]
 }, Open  ]]
 }
