@@ -1,4 +1,4 @@
-## Ancient Astronomy &mdash; Daily Schedule Term 2
+## Ancient Astronomy &mdash; Schedule Term 2
 
 Course [home page](./)
 
@@ -23,7 +23,7 @@ Course [home page](./)
 
 ### Week 4 &mdash; Geometry on the Celestial Sphere
 
-* To contemplate as you prepare for the upcoming moon plotting assignment: [Waning gibbous moon high in the *western* morning sky on Tuesday, Sept. 5](./resources/MorningMoonSept5.jpeg) &mdash; Is it fair to describe it as being &ldquo;ahead&rdquo; of the Sun? (Why?) &mdash; If you saw it in the west after sunset (which you will starting soon) would it then be fair to say it had fallen *behind* the Sun? &mdash; What does it even mean to be &ldquo;ahead&rdquo; or &ldquo;behind&rdquo; something that passes by daily? &mdash; If you are behind, aren't you just ahead of the next day's occurrence?
+* To contemplate as you prepare for the upcoming moon plotting assignment (Assignment 4): [Waning gibbous moon high in the *western* morning sky on Tuesday, Sept. 5](./resources/MorningMoonSept5.jpeg) &mdash; Is it fair to describe it as being &ldquo;ahead&rdquo; of the Sun? (Why?) &mdash; If you saw it in the west after sunset (which you will starting soon) would it then be fair to say it had fallen *behind* the Sun? &mdash; What does it even mean to be &ldquo;ahead&rdquo; or &ldquo;behind&rdquo; something that passes by daily? &mdash; If you are behind, aren't you just ahead of the next day's occurrence?
 * Preparation for Monday, Sept. 18 &mdash; As Assignment 3, complete [Charting the Zodiac kit](./assignments/ChartingTheZodiac/index.html) &mdash; Since Saturday, Sept. 17 you have been plotting the motion of the waxing crescent Moon and will continue taking position data and plotting it on the [Moon Plotting Chart](./assignments/MoonPlottingChart.pdf) through Thursday, Sept. 21 (see especially Evans Section 1.11, p. 58) &mdash; The reading for Monday is through Evans Section 2.10 p. 105 &mdash; Come visit me at the West Duplex if you want to use my Starship Earth celestial sphere to do parts of Exercise 2.10 on p. 105 &mdash; The geometry is now getting challenging!
 * Monday, Sept. 18 &mdash; [Tycho Brahe at Uraniborg mural](./resources/Tycho-Brahe-Mural-Quadrant.jpg) which makes it very clear how altitude and right ascension were measured at his observatory &mdash; A [Systematic introduction to the Lenart Sphere](/heavenly-mathematics/resources/lenart_sphere/lenart_sphere.html) for performing celestial sphere calculations by drawing and measuring angles
 * Preparation for Thursday, Sept. 21 &mdash; Continue making Moon observations on the evenings of Sept. 18, 19, 20, and 21 &mdash; The time of observation is much less critical now because there is longer between sunset and moonset &mdash; 7:45pm or somewhat later is best for the Moon observations because it is dark enough after 7:45pm to make out many stars &mdash; Put completed [Moon plotting charts](./assignments/MoonPlottingChart.pdf) in my mailbox on Friday, Sept. 22 &mdash; Come by my home office to use my Starship Earth celestial sphere to do exercises like those in Evans Section 2.6 and 2.7 &mdash; Continue in Evans through Section 2.13, p. 120 &mdash; I wanted to produce exercises that will cause you to learn to use the formulae  on p. 105, but I haven't and so it will become part of Monday's assignment &mdash; You should get started though by doing Evans Exercise 2.10, Part 1
@@ -32,4 +32,14 @@ Course [home page](./)
 ### Week 5 &mdash; Ascensions &mdash; Sundials
 
 * Preparation for Monday, Sept. 25 &mdash; As Assignment 5, complete [Ascension and Spherical Trigonometry](./assignments/AscensionsAndSphericalTrigonometryAssignment.pdf) &mdash; Finish reading Chapter 2 of Evans &mdash; Choose a calculation from Chapter 2 that you believe is interesting and instructive and prepare to present it
-* Preparation for Thursday, Sept. 28 &mdash; Clara and Mac are building and demonstrating [a sundial](./resources/SundialForDeepSprings.pdf) &mdash; Rania and Walker are building and demonstrating a astrolabe &mdash; However, Rania and Walker's astrolabe is not planned to be done and demonstrated until Monday, Oct. 2 &mdash; Carried forward from last time, Hexi is going to present the latitude and solsticial days &mdash; Finally, also carried forward from last time, Brian is going to present culmination of Zodiacal constellations, following the Evans example on the middle of p. 114 &mdash; The reading is to end of Evans Section 3.4, p. 141
+* Preparation for Thursday, Sept. 28 &mdash; Clara and Mac are building and demonstrating [a sundial](./resources/SundialForDeepSprings.pdf) &mdash; Carried forward from last time, Hexi is going to present the latitude and solsticial days &mdash; Finally, also carried forward from last time, Brian is going to present culmination of Zodiacal constellations, following the Evans example on the middle of p. 114 &mdash; The reading is to end of Evans Section 3.4, p. 141
+
+### Week 6 &mdash; Calendars
+
+* Preparation for Monday, Oct. 2 &mdash; Skip the rest of Chapter 3 and read Evans through Section 4.6 (pp. 163-182) &mdash; As Assignment #6, do Evans Exercises 4.2 and 4.4
+* Preparation for Thursday, Oct. 5 &mdash; Read the rest of Chapter 4, pp. 182-204 &mdash; Choose an example or exercise from Chapter 4 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing)
+
+### Week 7 &mdash; Midterm &mdash; Begin Solar Theory
+
+* Monday, Oct. 9 &mdash; Midterm
+* Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; As assignment #7 do Evans Exercise 5.4
