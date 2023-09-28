@@ -2,6 +2,8 @@
 
 Course [home page](./)
 
+See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
+
 ### Week 1 &mdash; The Historical context, 1700 BC&ndash;1543 AD
 
 * Preparation for Thursday, Aug. 31 &mdash; Read Preface and Sections 1.1 to 1.3 of Evans &mdash; Choose any topic from the reading to go into more detail on in a presentation to the class &mdash; Come armed with strong opinions on what we should assign for the next class and the first homework
