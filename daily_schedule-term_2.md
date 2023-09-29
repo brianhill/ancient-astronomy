@@ -34,7 +34,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 ### Week 5 &mdash; Ascensions &mdash; Sundials
 
 * Preparation for Monday, Sept. 25 &mdash; As Assignment 5, complete [Ascension and Spherical Trigonometry](./assignments/AscensionsAndSphericalTrigonometryAssignment.pdf) &mdash; Finish reading Chapter 2 of Evans &mdash; Choose a calculation from Chapter 2 that you believe is interesting and instructive and prepare to present it
-* Preparation for Thursday, Sept. 28 &mdash; Clara and Mac are building and demonstrating [a sundial](./resources/SundialForDeepSprings.pdf) &mdash; Carried forward from last time, Hexi is going to present the latitude and solsticial days &mdash; The reading is to end of Evans Section 3.4, p. 141
+* Preparation for Thursday, Sept. 28 &mdash; Clara and Mac are building and demonstrating [a sundial](./resources/SundialForDeepSprings.pdf) &mdash; Hexi presented the relationship between latitude and the length of the shortest (or longest) night on the summer (or winter) solstice &mdash; The reading is to end of Evans Section 3.4, p. 141
 
 ### Week 6 &mdash; Calendrical Systems
 
