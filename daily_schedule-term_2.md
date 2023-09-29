@@ -38,7 +38,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 ### Week 6 &mdash; Calendrical Systems
 
-* I have prepared star charts for plotting [the position of Jupiter](./assignments/planet_plotting/JupiterPlottingChart.pdf) and [the position of Venus](./assignments/planet_plotting/VenusPlottingChart.pdf) from September 30th to October 29th &mdash; If you do ten observations about three days apart (more when it is clear to make up for days that you have to miss due to clouds or other problematic conditions), you will have good results that we can review on Monday, Oct. 30th &mdash; We could turn in the work then or we could continue making observations for another two weeks
+* I have prepared star charts for plotting [the position of Jupiter](./assignments/planet_plotting/JupiterPlottingChart.pdf) and [the position of Venus](./assignments/planet_plotting/VenusPlottingChart.pdf) from Sept. 29 to Oct. 29 &mdash; If you do ten observations about three days apart (more when it is clear to make up for days that you have to miss due to clouds or other problematic conditions), you will have good results that we can review on Monday, Oct. 30th &mdash; We could turn in the work then or we could continue making observations for another two weeks
 * Preparation for Monday, Oct. 2 &mdash; Skip the rest of Chapter 3 (on medieval astrolabes) and read Evans Chapter 4 through Section 4.6 (pp. 163-182) &mdash; As Assignment 6 for Monday, do Evans Exercises 4.2 and 4.4
 * Preparation for Thursday, Oct. 5 &mdash; Read the rest of Chapter 4, pp. 182-204 &mdash; Choose an example or exercise from Chapter 4 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing)
 
