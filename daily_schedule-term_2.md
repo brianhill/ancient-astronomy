@@ -36,16 +36,16 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 * Preparation for Monday, Sept. 25 &mdash; As Assignment 5, complete [Ascension and Spherical Trigonometry](./assignments/AscensionsAndSphericalTrigonometryAssignment.pdf) &mdash; Finish reading Chapter 2 of Evans &mdash; Choose a calculation from Chapter 2 that you believe is interesting and instructive and prepare to present it
 * Preparation for Thursday, Sept. 28 &mdash; Clara and Mac are building and demonstrating [a sundial](./resources/SundialForDeepSprings.pdf) &mdash; Carried forward from last time, Hexi is going to present the latitude and solsticial days &mdash; The reading is to end of Evans Section 3.4, p. 141
 
-### Week 6 &mdash; Calendars
+### Week 6 &mdash; Calendrical Systems
 
-* Brian has prepared star charts for plotting [the position of Jupiter](./assignments/planet_plotting/JupiterPlottingChart.pdf) and [the position of Venus](./assignments/planet_plotting/VenusPlottingChart.pdf) from September 30th to October 29th &mdash; If you do ten observations about three days apart (more when it is clear to make up for days that you have to miss due to clouds or other problematic conditions), you will have good results that we can review on Monday, Oct. 30th
-* Preparation for Monday, Oct. 2 &mdash; Skip the rest of Chapter 3 (on medieval astrolabes) and read Evans Chapter 4 through Section 4.6 (pp. 163-182) &mdash; As Assignment #6 for Monday, do Evans Exercises 4.2 and 4.4
+* I have prepared star charts for plotting [the position of Jupiter](./assignments/planet_plotting/JupiterPlottingChart.pdf) and [the position of Venus](./assignments/planet_plotting/VenusPlottingChart.pdf) from September 30th to October 29th &mdash; If you do ten observations about three days apart (more when it is clear to make up for days that you have to miss due to clouds or other problematic conditions), you will have good results that we can review on Monday, Oct. 30th &mdash; We could turn in the work then or we could continue making observations for another two weeks
+* Preparation for Monday, Oct. 2 &mdash; Skip the rest of Chapter 3 (on medieval astrolabes) and read Evans Chapter 4 through Section 4.6 (pp. 163-182) &mdash; As Assignment 6 for Monday, do Evans Exercises 4.2 and 4.4
 * Preparation for Thursday, Oct. 5 &mdash; Read the rest of Chapter 4, pp. 182-204 &mdash; Choose an example or exercise from Chapter 4 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing)
 
 ### Week 7 &mdash; Midterm &mdash; Begin Solar Theory
 
 * Monday, Oct. 9 &mdash; Midterm
-* Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; As assignment #7 for Thursday, do Evans Exercise 5.4
+* Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; As Assignment 7 for Thursday, do Evans Exercise 5.4
 
 ### Things We Could Return to Given Time 
 
