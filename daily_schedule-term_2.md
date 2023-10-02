@@ -37,20 +37,20 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 * Preparation for Thursday, Sept. 28 &mdash; Clara and Mac are building and demonstrating [a sundial](./resources/SundialForDeepSprings.pdf) &mdash; Hexi presented the relationship between latitude and the length of the shortest (or longest) night on the summer (or winter) solstice &mdash; The reading is to end of Evans Section 3.4, p. 141
 * Brian's Lightning [Trig Refresher](./resources/TrigRefresher.pdf) (should help with the geometry we have been doing a lot of lately)
 
-### Week 6 &mdash; Calendrical Systems
+### Week 6 &mdash; Calendrical Systems &mdash; Julian Date
 
 * I have prepared star charts for plotting [the position of Jupiter](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) and [the position of Venus](./assignments/venus_plotting/VenusPlottingChart.pdf) from Sept. 29 to Oct. 29 &mdash; If you do ten observations about three days apart (more when it is clear to make up for days that you have to miss due to clouds or other problematic conditions), you will have good results that we can review on Monday, Oct. 30th &mdash; We could turn in the work then or we could continue making observations for another two weeks
 * Preparation for Monday, Oct. 2 &mdash; Skip the rest of Chapter 3 (on medieval astrolabes) and read Evans Chapter 4 through Section 4.6 (pp. 163-182) &mdash; As Assignment 6 for Monday, do Evans Exercises 4.2 and 4.4
-* Preparation for Thursday, Oct. 5 &mdash; Read the rest of Chapter 4, pp. 182-204 &mdash; Choose an example or exercise from Chapter 4 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing)
+* Monday, Oct. 2 &mdash; Calendrical Calculations &mdash; [Midterm Exam Outline](./exams/Term2ExamOutline.pdf)
+* Preparation for Thursday, Oct. 5 &mdash; Read the rest of Chapter 4, pp. 182-204 &mdash; Choose an example or exercise from Chapter 4 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing) &mdash; Brian will finally get to present &ldquo;culmination time of Zodiacal constellations,&rdquo; following the Evans example on the middle of p. 114
 
 ### Week 7 &mdash; Midterm &mdash; Begin Solar Theory
 
 * Monday, Oct. 9 &mdash; Midterm
 * Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; As Assignment 7 for Thursday, do Evans Exercise 5.4
 
-### Things We Could Return to Given Time 
+### Something We Could Return to Given Time 
 
-* Brian never got to present &ldquo;culmination time of Zodiacal constellations,&rdquo; following the Evans example on the middle of p. 114
 * Hexi's 2-d &ldquo;length of shortest night at a latitude&rdquo; presentation could be supplemented with a 3-d L&eacute;n&aacute;rt sphere construction
 
 <img src="./resources/FinishedSundial.jpeg" alt="Finished Sundial for Deep Springs" width="80%">

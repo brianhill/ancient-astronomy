@@ -14,3 +14,5 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Thursday, Nov. 2 &mdash;
 
 <img src="./resources/VenusOverSwingingT.jpeg" alt="Venus over Swinging T" width="100%">
+
+<!-- https://www.youtube.com/watch?v=EpSy0Lkm3zM -->
