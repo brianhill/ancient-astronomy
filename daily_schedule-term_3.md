@@ -13,6 +13,6 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Preparation for Monday, Oct. 30 &mdash; Prepare to compare notes on the prior 30 days of [Jupiter plotting](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) and [Venus plotting](./assignments/venus_plotting/VenusPlottingChart.pdf) from Sept. 29 to Oct. 29 &mdash; We could turn them in now, or we could continue the plotting for two more weeks and turn them during the week beginning Monday Nov. 13 &mdash; If we are to continue plotting Venus, we will need a new chart, because Venus will be leaving Leo and moving into Virgo &mdash; Read Evans Sections 5.9 to 6.3, pp. 235-260
 * Thursday, Nov. 2 &mdash;
 
-<img src="./resources/VenusOverSwingingT.jpeg" alt="Venus over Swinging T" width="100%">
+<img src="./assignments/venus_plotting/Venus-Sept29-559am.jpeg" alt="Venus Sept. 29 5:59am" width="80%">
 
 <!-- https://www.youtube.com/watch?v=EpSy0Lkm3zM -->
