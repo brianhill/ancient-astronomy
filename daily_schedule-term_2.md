@@ -46,7 +46,8 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 ### Week 7 &mdash; Midterm &mdash; Begin Solar Theory
 
+* Sunday, Oct. 8 &mdash; Noon &mdash; Q&amp;A session to help study for midterm
 * Monday, Oct. 9 &mdash; Midterm
 * Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; In class on Thursday, we will do Evans Exercise 5.4 &mdash; As Assignment 7, complete the [Star Phases kit](./assignments/star_phases/index.html) for the 3 of the 15 stars you were assigned
 
-<img src="./resources/FinishedSundial.jpeg" alt="Finished Sundial for Deep Springs" width="60%">
+<img src="./resources/FinishedSundial.jpeg" alt="Finished Sundial for Deep Springs" width="80%">
