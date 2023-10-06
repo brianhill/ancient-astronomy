@@ -1,14 +1,16 @@
 ## Star Phases Kit
 
+[Daily Schedule Term 2](../../daily_schedule-term_2.html)
+
 This is a little kit for making star phases charts for the 15 brightest stars. The kit has three components.
 
 ### Component 1: Star Phases Spreadsheet
 
-I have previously handed out a [15-brightest stars spreadsheet](../../resources/15BrightestStars-September.pdf), but [this version of the spreadhsheet](./StarPhases.pdf) has columns to record star phases (both true and visible, for each of two latitudes). If you would prefer to work digitally, here is [yet another version of the spreadsheet](./StarPhases.numbers) in Apple Numbers format that you can modify to your heart&rsquo;s content.
+I have previously handed out a [15-brightest stars spreadsheet](../../resources/15BrightestStars-September.pdf), but [this version of the spreadsheet](./StarPhases.pdf) has columns to record star phases (both true and visible, for each of two latitudes). If you would prefer to work digitally, here is [yet another version of the spreadsheet](./StarPhases.numbers) in Apple Numbers format that you can modify to your heart&rsquo;s content.
 
 ### Component 2: Blank Visibility Diagrams
 
-You will need six blank copies of the [star phases diagram](./StarPhasesDiagram.png) in Figure 4.12 on p. 195 to do three stars at each of two latitudes. I have made, copied, and distributed those.
+You will need six blank copies of the [star phases diagram](./StarPhasesDiagram.png) in Figure 4.12 on p. 195 to do three stars at each of two latitudes. I have made, copied, and distributed enough for your project, but if you mess some up, here are [blanks you can print](./BlankStarPhasesDiagram.jpeg).
 
 ### Component 3: A Program that Computes Star Rising and Setting Times
 
