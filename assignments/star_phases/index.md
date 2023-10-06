@@ -1,6 +1,6 @@
 ## Star Phases Kit
 
-[Daily Schedule Term 2](../../daily_schedule-term_2.html)
+Back to [Daily Schedule-Term 2](../../daily_schedule-term_2.html)
 
 This is a little kit for making star phases charts for the 15 brightest stars. The kit has three components.
 
@@ -16,4 +16,8 @@ You will need six blank copies of the [star phases diagram](./StarPhasesDiagram.
 
 Rania demonstrated the use of the web version of [Stellarium](https://stellarium.org) to get rising and setting times. Stellarium works on all desktop platforms (web/Mac/Windows/Linux) and is free, so it is hard to beat.
 
-There are also lots of low-cost apps that run on smartphones. My go-tos for an iPhone app are Sky Guide by Fifth Star Labs and SkySafari 7 by Simulation Curriculum. Of course, if you were an ancient, you would have to sit out all night for most nights of a year to get the data that you can get while sitting indoors on a sofa.
+There are also lots of low-cost apps that run on smartphones. My go-tos for star-charting iPhone apps are Sky Guide by Fifth Star Labs and SkySafari 7 by Simulation Curriculum.
+
+Of course, if you were an ancient, you would have to sit out all night for most nights of a year to get the data that we can get while sitting indoors on a sofa.
+
+For this project though, using Stellarium on a desktop computer is your best bet.
