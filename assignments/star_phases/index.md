@@ -18,6 +18,6 @@ Rania demonstrated the use of the web version of [Stellarium](https://stellarium
 
 There are also lots of low-cost apps that run on smartphones. My go-tos for star-charting iPhone apps are Sky Guide by Fifth Star Labs and SkySafari 7 by Simulation Curriculum.
 
-Of course, if you were an ancient, you would have to sit out all night for most nights of a year to get the data that we can get while sitting indoors on a sofa.
+Of course, if you were an ancient, you would have to sit out all night for most nights of a year to get the data that we can get in an evening while sitting on a sofa. If you were a medieval scholar, you might have access to an astrolabe (the construction of which we skipped over at the end of Chapter 3)
 
-For this project though, using Stellarium on a desktop computer is your best bet.
+Although I mentioned some smartphone apps that I often use when outdoors, for this project, using a desktop computer is your best bet, and if you use the [web version of Stellarium](https://stellarium-web.org) as Rania did, you don't even have to download and install anything.
