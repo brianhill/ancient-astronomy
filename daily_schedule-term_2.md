@@ -41,7 +41,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 * I have prepared star charts for plotting [the position of Jupiter](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) and [the position of Venus](./assignments/venus_plotting/VenusPlottingChart.pdf) from Sept. 29 to Oct. 29 &mdash; If you do ten observations about three days apart (more when it is clear to make up for days that you have to miss due to clouds or other problematic conditions), you will have good results that we can review on Monday, Oct. 30th &mdash; We could turn in the work then or we could continue making observations for another two weeks
 * Preparation for Monday, Oct. 2 &mdash; Skip the rest of Chapter 3 (on medieval astrolabes) and read Evans Chapter 4 through Section 4.6 (pp. 163-182) &mdash; As Assignment 6 for Monday, do Evans Exercises 4.2 and 4.4
-* Monday, Oct. 2 &mdash; Calendrical Calculations &mdash; [Midterm Exam Outline](./exams/Term2ExamOutline.pdf)
+* Monday, Oct. 2 &mdash; Calendrical Calculations &mdash; [Midterm Outline](./exams/Term2ExamOutline.pdf)
 * Preparation for Thursday, Oct. 5 &mdash; Read the rest of Chapter 4, pp. 182-204 &mdash; Choose an example or exercise from Chapter 4 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing) &mdash; Brian will finally get to present &ldquo;culmination time of Zodiacal constellations&rdquo; following the Evans example on the middle of p. 114
 
 ### Week 7 &mdash; Midterm &mdash; Begin Solar Theory
@@ -49,5 +49,9 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 * Sunday, Oct. 8 &mdash; Noon &mdash; Q&amp;A session to help study for midterm
 * Monday, Oct. 9 &mdash; Midterm
 * Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; In class on Thursday, we will do Evans Exercise 5.4 &mdash; As Assignment 7, complete the [Star Phases kit](./assignments/star_phases/index.html) for the 3 of the 15 stars you were assigned
+
+### Week 8
+
+See [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 <img src="./resources/FinishedSundial.jpeg" alt="Finished Sundial for Deep Springs" width="80%">
