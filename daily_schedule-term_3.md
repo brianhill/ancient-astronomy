@@ -6,8 +6,8 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 8 &mdash; Continue Solar Theory
 
-* Tuesday, Oct. 24 &mdash; As discussed before the break, if you were super-crunched during Week 7, you can have an automatic extension on the star phases homework to Tuesday, Oct. 24th &mdash; Put completed assignment in my box before lunch &mdash; As a reminder, you have the ongoing Jupiter and Venus plotting project continuing to Oct. 30
-* Our class has its first Term 3 day on Thursday, Oct. 26 &mdash; Read Evans Sections 5.5 to 5.8, pp. 221-235 &mdash; In class, we will do Evans Exercise 5.6 &mdash; As Assignment 8 for Thursday, do Evans Exercise 5.8, p. 235 using your birthday for part 4 of the problem
+* Tuesday, Oct. 24 &mdash; As mentioned before the break, if you were super-crunched during Week 7, you can have an automatic extension to Tuesday, Oct. 24th on Assignment 7, which was to complete the [Star Phases kit](./assignments/star_phases/index.html) for the 3 of the 15 stars you were assigned (highlighted in your kit) &mdash; Also, you have the ongoing Jupiter and Venus plotting project continuing to Monday, Oct. 30, at which time we will compare notes on the prior 30 days of plotting
+* Thursday, Oct. 26 &mdash; First day of Term 3 for our class &mdash; Read Evans Sections 5.5 to 5.8, pp. 221-235 &mdash; In class, we will do Evans Exercise 5.6 &mdash; As Assignment 8 for Thursday, do Evans Exercise 5.8, p. 235 using your birthday for part 4 of the problem
 
 ### Week 9 &mdash; Finish Solar Theory &mdash; Start the Fixed Stars
 

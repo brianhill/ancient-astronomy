@@ -48,7 +48,7 @@ See also: [Daily Schedule Term 3](./daily_schedule-term_3.html)
 
 * Sunday, Oct. 8 &mdash; Noon &mdash; Q&amp;A session to help study for midterm
 * Monday, Oct. 9 &mdash; [Midterm](./exams/Term2Exam.pdf)
-* Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; In class on Thursday, we will do Evans Exercise 5.4 which will use this [Season Offset template](./resources/SeasonOffset.pdf) &mdash; As Assignment 7, complete the [Star Phases kit](./assignments/star_phases/index.html) for the 3 of the 15 stars you were assigned &mdash; As discussed on Monday during the midterm, if you are super-crunched this week, you can have an automatic extension to Tuesday, Oct. 24th &mdash; Put completed assignment in my box before lunch &mdash; As a reminder, you have the ongoing Jupiter and Venus plotting project continuing to Oct. 30
+* Preparation for Thursday, Oct. 12 &mdash; Read Evans through Section 5.4, p. 221 &mdash; In class on Thursday, we will do Evans Exercise 5.4 which will use this [Season Offset template](./resources/SeasonOffset.pdf) &mdash; As Assignment 7, complete the [Star Phases kit](./assignments/star_phases/index.html) for the 3 of the 15 stars you were assigned (highlighted in your kit) &mdash; As mentioned on Monday during the midterm, if you are super-crunched this week, you can have an automatic extension to Tuesday, Oct. 24th &mdash; Put completed assignment in my box before lunch &mdash; As a reminder, you have the ongoing Jupiter and Venus plotting project continuing to Oct. 30
 
 ### Week 8
 
