@@ -11,7 +11,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 9 &mdash; Finish Solar Theory &mdash; Start the Fixed Stars
 
-* Preparation for Monday, Oct. 30 &mdash; We will compare notes on the prior 30 days of [Jupiter plotting](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) and you can turn in your completed [Venus plotting project](./assignments/venus_plotting/VenusPlottingChart.pdf) using my pre-dawn observations from Sept. 29 to Oct. 23 &mdash; We could also turn Jupiter in now, or we could continue the Jupiter plotting for a few more weeks and turn them during the week beginning Monday Nov. 13 &mdash; Read Evans Sections 5.9 to 6.3, pp. 235-250 &mdash; &mdash; Choose an example or exercise from Chapter 5 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing)
+* Preparation for Monday, Oct. 30 &mdash; We will compare notes on the prior 30 days of [Jupiter plotting](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) and you can turn in your completed [Venus plotting project](./assignments/venus_plotting/VenusPlottingChart.pdf) using my pre-dawn observations from Sept. 29 to Oct. 23 &mdash; We could also turn Jupiter in now, or we could continue the Jupiter plotting for a few more weeks and turn them during the week beginning Monday Nov. 13 &mdash; Read Evans Sections 5.9 to 6.3, pp. 235-250 &mdash; Choose an example or exercise from Chapter 5 to present in 5-10 minutes (informally coordinate with other class members so everyone isn't doing the same thing)
 * Thursday, Nov. 2 &mdash;
 
 <img src="./assignments/venus_plotting/Venus-Sept29-559am.jpeg" alt="Venus Sept. 29 5:59am" width="70%">
