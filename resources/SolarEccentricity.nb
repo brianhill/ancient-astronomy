@@ -3,10 +3,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[         0,          0]
-NotebookDataLength[     18857,        404]
-NotebookOptionsPosition[     17182,        361]
-NotebookOutlinePosition[     17633,        379]
-CellTagsIndexPosition[     17590,        376]
+NotebookDataLength[     18905,        405]
+NotebookOptionsPosition[     17231,        362]
+NotebookOutlinePosition[     17682,        380]
+CellTagsIndexPosition[     17639,        377]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -327,7 +327,7 @@ trigonometry to get ",
   "ac4dbc15-4639-4d6f-ab71-641fa6b2fb69"],
  " from CT and CU? What are the formulae? At the top of p. 224 are Hipparchus\
 \[CloseCurlyQuote]s results. After you get your formulae and plug in, do you \
-agree?\n\nAs a final worthy point for discussion, how did we get an answer \
+agree? As a final worthy point for discussion, how did we get an answer \
 without knowing the lengths of fall and winter?"
 }], "Text",
  CellChangeTimes->{{3.9023249469862947`*^9, 3.902325023664939*^9}, {
@@ -353,8 +353,9 @@ without knowing the lengths of fall and winter?"
    3.907301978190229*^9, 3.9073020368371983`*^9}, {3.9073020740396852`*^9, 
    3.907302329616749*^9}, {3.9073026019818077`*^9, 3.90730265330269*^9}, {
    3.9073027703809013`*^9, 3.90730283343849*^9}, {3.907302879112945*^9, 
-   3.907302944271153*^9}, {3.907304630952867*^9, 
-   3.907304683805682*^9}},ExpressionUUID->"94e0695b-2bd0-4406-b699-\
+   3.907302944271153*^9}, {3.907304630952867*^9, 3.907304683805682*^9}, {
+   3.907304991637672*^9, 
+   3.9073049919394903`*^9}},ExpressionUUID->"94e0695b-2bd0-4406-b699-\
 f72a53a90393"]
 }, Open  ]]
 }, Open  ]]
@@ -396,7 +397,7 @@ Cell[9860, 200, 3606, 84, 127, "Text",ExpressionUUID->"316eb141-fead-45ce-a14c-d
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[13503, 289, 1135, 24, 68, "Section",ExpressionUUID->"bcd41f57-d1c9-4206-b384-c317ad44cdfd"],
-Cell[14641, 315, 2513, 42, 104, "Text",ExpressionUUID->"94e0695b-2bd0-4406-b699-f72a53a90393"]
+Cell[14641, 315, 2562, 43, 81, "Text",ExpressionUUID->"94e0695b-2bd0-4406-b699-f72a53a90393"]
 }, Open  ]]
 }, Open  ]]
 }
