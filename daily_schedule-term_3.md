@@ -11,19 +11,12 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 9 &mdash; Finish Solar Theory &mdash; Start the Fixed Stars
 
-* Preparation for Monday, Oct. 30 &mdash; Assignment 9 is your completed [Venus plotting project](./assignments/venus_plotting/VenusPlottingChart.pdf) using my 10 pre-dawn observations from Sept. 29 to Oct. 23 is due Monday &mdash; We will compare notes on the prior 30 days of [Jupiter plotting](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) &mdash; We could also turn Jupiter in without doing any more observations *OR* we could continue the Jupiter plotting project for two more weeks and turn them in Monday Nov. 13 &mdash; Finish reading Chapter 5 &mdash; For Monday's presentation we decided that everyone will do all of Evans Exercise 5.10 and in class we will share the presentation of parts of it &mdash; Walker suggested that we fill in the other 12 of the 15 stars in the Star phases project, and I have prepared an exercise to do in class to help make sense of the star phases
-* Preparation for Thursday, Nov. 2 &mdash; Study Evans 6.1 to 6.4 (to p. 256) &mdash; We will do Evans Exercise 6.5 in class
+* Preparation for Monday, Oct. 30 &mdash; Assignment 9 is the completed [Venus](./assignments/venus_plotting/VenusPlottingChart.pdf) and [Jupiter](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) plotting projects &mdash; Finish reading Chapter 5 &mdash; For Monday's presentations we decided that everyone will do all of Evans Exercise 5.10 and in class we will share the presentation of parts of it
+* Monday, Oct. 30 &mdash; We discussed the magnitude system (which is coming up in Chapter 6) &mdash; We cross-checked Pollux and Procyon star phases with Rania's values &mdash; We did Parts 1-5 of Exercise 5.10 &mdash; At the end of class, we quickly looked at how the Main Circle sundial corrects for Daylight Savings Time, our longitude being 2&deg; west of the standard Pacific Time meridian of 120&deg;, and the Equation of Time
+* Preparation for Thursday, Nov. 2 &mdash; Study Evans 6.1 to 6.4 &mdash; Add the Pollux-vs-Procyon star phases to your Assignment 7 and turn it back in &mdash; Check your values for your star phases against mine before you hand Assignment 7 back in, and flag any that disagree by more than a week
+* Thursday, Nov. 2 &mdash; Mac will present Part 6 of Exercise 5.10 &mdash; We will do Evans Exercise 6.5 in class &mdash; You do not have to prepare 6.5!
 
-### Week 10 &mdash; 
-
-* Preparation for Monday, Nov. 6 &mdash; Study Evans 6.6 to 6.8 (to p. 274)
-
-### Main Circle Sundial (goes with Equation of Time reading)
-
-* Take a look at the high-quality sundial that is between the Main Building and the Duplex
-* The sundial has a strange blob of metal shaped like a figure 8 that accounts for the &ldquo;Equation of Time&rdquo;
-* The Equation of time is the drift of high noon throughout the year
-* If you know how to use it, the Main Circle Sundial can be read to within a couple of minutes, despite the high noon drift
+<!-- ### Week 10 &mdash; * Preparation for Monday, Nov. 6 &mdash; Study Evans 6.6 to 6.8 (to p. 274) -->
 
 <img src="./assignments/venus_plotting/Venus-Sept29-559am.jpeg" alt="Venus Sept. 29 5:59am" width="70%">
 
