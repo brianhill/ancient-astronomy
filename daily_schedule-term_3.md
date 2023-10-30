@@ -11,7 +11,12 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 9 &mdash; Finish Solar Theory &mdash; Start the Fixed Stars
 
-* Preparation for Monday, Oct. 30 &mdash;Assignment 9: Your completed [Venus plotting project](./assignments/venus_plotting/VenusPlottingChart.pdf) using my 10 pre-dawn observations from Sept. 29 to Oct. 23 is due Monday &mdash; We will compare notes on the prior 30 days of [Jupiter plotting](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) &mdash; We could also turn Jupiter in without doing any more observations *OR* we could continue the Jupiter plotting project for two more weeks and turn them in Monday Nov. 13 &mdash; Finish reading Chapter 5 &mdash; For Monday's presentation we decided that everyone will do all of Evans Exercise 5.10 and in class we will share the presentation of parts of it &mdash; Walker suggested that we fill in the other 12 of the 15 stars in the Star phases project, and I have prepared an exercise to do in class to help make sense of the star phases
+* Preparation for Monday, Oct. 30 &mdash; Assignment 9 is your completed [Venus plotting project](./assignments/venus_plotting/VenusPlottingChart.pdf) using my 10 pre-dawn observations from Sept. 29 to Oct. 23 is due Monday &mdash; We will compare notes on the prior 30 days of [Jupiter plotting](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) &mdash; We could also turn Jupiter in without doing any more observations *OR* we could continue the Jupiter plotting project for two more weeks and turn them in Monday Nov. 13 &mdash; Finish reading Chapter 5 &mdash; For Monday's presentation we decided that everyone will do all of Evans Exercise 5.10 and in class we will share the presentation of parts of it &mdash; Walker suggested that we fill in the other 12 of the 15 stars in the Star phases project, and I have prepared an exercise to do in class to help make sense of the star phases
+* Preparation for Thursday, Nov. 2 &mdash; Study Evans 6.1 to 6.4 (to p. 256) &mdash; We will do Evans Exercise 6.5 in class
+
+### Week 10 &mdash; 
+
+* Preparation for Monday, Nov. 6 &mdash; Study Evans 6.6 to 6.8 (to p. 274)
 
 ### Main Circle Sundial (goes with Equation of Time reading)
 
