@@ -18,6 +18,10 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 <!-- ### Week 10 &mdash; * Preparation for Monday, Nov. 6 &mdash; Study Evans 6.6 to 6.8 (to p. 274) -->
 
-<img src="./assignments/venus_plotting/Venus-Sept29-559am.jpeg" alt="Venus Sept. 29 5:59am" width="70%">
+#### 2:52pm on Oct. 30
+
+<img src="./resources/ItIs252OnOct30Not324.jpeg" alt="It is 2:52 on Oct 30 not 3:24" width="70%">
+
+<!-- <img src="./assignments/venus_plotting/Venus-Sept29-559am.jpeg" alt="Venus Sept. 29 5:59am" width="70%"> -->
 
 <!-- https://www.youtube.com/watch?v=EpSy0Lkm3zM -->
