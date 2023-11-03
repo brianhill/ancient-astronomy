@@ -19,7 +19,42 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 ### Week 10 Finish the Fixed Stars &mdash; Start Planetary Theory
 
 * Monday, Nov. 6 &mdash; Meet at the SUVs at 5am &mdash; Dress warmly &mdash; We plan to observe Jupiter, Venus, and the Moon
-* Thursday, Nov. 9 &mdash; Carried forward from Oct. 30: Mac will present Part 6 of Exercise 5.10 &mdash; We will finish Chapter 6 and start Chapter 7
+
+#### Setting our pace for the remainder of the course
+
+We have only one chapter to finish in the five weeks remaining, but it is the longest!
+To be more quantitative, we have 155 pages in 31 sections to cover in the remaining nine classes.
+Below I have outlined how we can spread the reading out (in parenthesis after each date)
+to make sure that we get all the way to Kepler in the final class.
+We will almost surely want to make adjustments as we go.
+
+* Thursday, Nov. 9 (through 7.6, p. 312, I was aggressive on this first target because we only have one reading this week, and it will make the remaining eight classes easier) &mdash; Carried forward from Oct. 30: Mac will present Part 6 of Exercise 5.10 &mdash; 7.4 and 7.5 are exercises &mdash; We will do 7.4 in class and 7.5 will be Assignment 10 for Monday, Nov. 13
+
+### Week 11
+
+* Monday, Nov. 13 (through p. 328, through Babylonian &ldquo;System A&rdquo;)
+* Thursday, Nov. 16 (through 7.13, p. 347)
+
+### Week 12
+
+* Monday, Nov. 20 (through 7.18, p. 362)
+* Thursday, Nov. 23 &mdash; No class Thanksgiving holiday
+
+### Week 13
+
+* Monday, Nov. 27 (through 7.24, p. 384, another kind of big reading, but we have a whole week between classes)
+* Thursday, Nov. 30 (through 7.26, p. 403)
+
+### Week 14 &mdash; Copernicus
+
+* Monday, Dec. 4 (through 7.29, p. 414)
+* Thursday, Dec. 7 (through 7.30, p. 427)
+
+### Week 15 &mdash; Final &mdash; Kepler
+
+* Monday, Dec. 11 &mdash; [Final](./exams/Term2Exam.pdf)
+* Thursday, Dec. 14 (through 7.31, p. 443)
+
 
 <!-- ### Week 10 &mdash; * Preparation for Monday, Nov. 6 &mdash; Study Evans 6.6 to 6.8 (to p. 274) -->
 
