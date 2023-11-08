@@ -23,9 +23,9 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 #### Setting our pace for the remainder of the course
 
-We have only one chapter to finish in the five weeks remaining, but it is the longest!
-To be more quantitative, we have 155 pages in 31 sections to cover in the remaining nine classes.
-Below I have outlined how we can spread the reading out (in parenthesis after each date)
+We have only one chapter to finish Weeks 11-15, but it is the longest!
+To be more quantitative, we have 155 pages in 31 sections to cover in those eight classes.
+Below I have estimated how we can spread the reading out (in parenthesis after each date)
 to make sure that we get all the way to Kepler in the final class.
 We will almost surely want to make adjustments as we go.
 
@@ -57,11 +57,9 @@ We will almost surely want to make adjustments as we go.
 * Monday, Dec. 11 &mdash; [Final](./exams/Term2Exam.pdf)
 * Thursday, Dec. 14 (through 7.31, p. 443)
 
-<!-- ### Week 10 &mdash; * Preparation for Monday, Nov. 6 &mdash; Study Evans 6.6 to 6.8 (to p. 274) -->
+<img src="./resources/ItIs252OnOct30Not324.jpeg" alt="It is 2:52 on Oct 30 not 3:24" width="70%">
 
 #### 2:52pm on Oct. 30
-
-<img src="./resources/ItIs252OnOct30Not324.jpeg" alt="It is 2:52 on Oct 30 not 3:24" width="70%">
 
 <!-- <img src="./assignments/venus_plotting/Venus-Sept29-559am.jpeg" alt="Venus Sept. 29 5:59am" width="70%"> -->
 
