@@ -14,11 +14,12 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Preparation for Monday, Oct. 30 &mdash; Assignment 9 is the completed [Venus](./assignments/venus_plotting/VenusPlottingChart.pdf) and [Jupiter](./assignments/jupiter_plotting/JupiterPlottingChart.pdf) plotting projects &mdash; Finish reading Chapter 5 &mdash; For Monday's presentations we decided that everyone will do all of Evans Exercise 5.10 and in class we will share the presentation of parts of it
 * Monday, Oct. 30 &mdash; We discussed the magnitude system (which is coming up in Chapter 6) &mdash; We cross-checked Pollux and Procyon star phases with Rania's values &mdash; We did Parts 1-5 of Exercise 5.10 &mdash; At the end of class, we quickly looked at how the Main Circle sundial corrects for Daylight Savings Time, our longitude being 2&deg; west of the standard Pacific Time meridian of 120&deg;, and the Equation of Time
 * Preparation for Thursday, Nov. 2 &mdash; Study Evans 6.1 to 6.4 &mdash; Add the Pollux-vs-Procyon Star Phase diagrams to your Assignment 7 and turn it back in &mdash; ALSO, check your values for your star phases against mine before you hand Assignment 7 back in, and flag any that disagree with me by more than a week
-* Thursday, Nov. 2 &mdash; Precession &mdash; Cause of precession &mdash; [Law of Sines](./resources/LawOfSines.pdf) and [Law of Cosines](./resources/LawOfCosines.pdf) &mdash; Parallax &mdash; The apparent vs. true position of the Moon &mdash; We finished by doing Evans Exercise 6.5 together and got 204&deg; as the longitude of Spica &mdash; SkySafari says it was 203&deg;31' in 1977 &mdash; We took some shortcuts to finish on time, and there are two parts of the computation I will re-do and write up for y'all
+* Thursday, Nov. 2 &mdash; Precession &mdash; Cause of precession &mdash; [Law of Sines](./resources/LawOfSines.pdf) and [Law of Cosines](./resources/LawOfCosines.pdf) &mdash; Parallax &mdash; The apparent vs. true position of the Moon &mdash; We finished by doing Evans Exercise 6.5 together and got 204&deg; as the longitude of Spica &mdash; SkySafari says it was 203&deg;31' in 1977 &mdash; We took some shortcuts to finish on time &mdash; I will re-do the calculation and write it up
 
-### Week 10 Finish the Fixed Stars &mdash; Start Planetary Theory
+### Week 10 Finish the Fixed Stars &mdash; Observing at the College Observatory &mdash; Start Planetary Theory
 
-* Monday, Nov. 6 &mdash; Meet at the SUVs at 5am &mdash; Dress warmly &mdash; We plan to observe Jupiter, Venus, and the Moon
+* Monday, Nov. 6 &mdash; Meet at the SUVs at 5am &mdash; We'll observe Jupiter, Venus, and the Moon with a 10&rdquo; telescope
+* Wednesday, Nov. 8 &mdash; A second, totally optional, observing session &mdash; Meet Hexi on the front steps at 7:45pm &mdash; *Bring a headlamp, there will be no moonlight* &mdash; We'll be observing Saturn, and the Andromeda Galaxy, and maybe we will get a sharper view of Jupiter
 
 #### Setting our pace for the remainder of the course
 
@@ -28,7 +29,8 @@ Below I have outlined how we can spread the reading out (in parenthesis after ea
 to make sure that we get all the way to Kepler in the final class.
 We will almost surely want to make adjustments as we go.
 
-* Thursday, Nov. 9 (through 7.6, p. 312, I was aggressive on this first target because we only have one reading this week, and it will make the remaining eight classes easier) &mdash; Carried forward from Oct. 30: Mac will present Part 6 of Exercise 5.10 &mdash; 7.4 and 7.5 are exercises &mdash; We will do 7.4 in class and 7.5 will be Assignment 10 for Monday, Nov. 13
+* Preparation for Thursday, Nov. 9 &mdash; Read Evans 6.6 through 7.6, p. 312 &mdash; I was aggressive on this first reading in Chapter 7 because we only have one reading this week, and it will make the remaining eight classes easier &mdash; To make this reading slightly more manageable, you can just skim 6.9 and 6.10 because the motion called &ldquo;trepidation&rdquo; was just a giant misunderstanding about how the data was recorded &mdash; Also to make this reading more manageable, we'll save Exercise 7.5 to do in class &mdash; Finally, there is no homework due this week
+* Thursday, Nov. 9 &mdash; Carried forward from Oct. 30: Mac will present Part 6 of Exercise 5.10 &mdash; I will hand out a write-up of the Spica calculations we did in class on Nov. 2 &mdash; Finally, we will do Exercise 7.5 together in class
 
 ### Week 11
 
@@ -54,7 +56,6 @@ We will almost surely want to make adjustments as we go.
 
 * Monday, Dec. 11 &mdash; [Final](./exams/Term2Exam.pdf)
 * Thursday, Dec. 14 (through 7.31, p. 443)
-
 
 <!-- ### Week 10 &mdash; * Preparation for Monday, Nov. 6 &mdash; Study Evans 6.6 to 6.8 (to p. 274) -->
 
