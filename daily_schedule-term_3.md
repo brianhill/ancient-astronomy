@@ -30,21 +30,25 @@ to make sure that we get all the way to Kepler in the final class.
 We will almost surely want to make adjustments as we go.
 
 * Preparation for Thursday, Nov. 9 &mdash; Read Evans 6.6 through 7.6, p. 312 &mdash; I was aggressive on this first reading in Chapter 7 because we only have one reading this week, and it will make the remaining eight classes easier &mdash; To make this reading slightly more manageable, you can just skim 6.9 and 6.10 because the motion called &ldquo;trepidation&rdquo; was just a giant misunderstanding about how the data was recorded &mdash; Also to make this reading more manageable, we'll save Exercise 7.5 to do in class &mdash; Finally, there is no homework due this week
-* Thursday, Nov. 9 &mdash; Carried forward from Oct. 30: Mac will present Part 6 of Exercise 5.10 &mdash; I will hand out a write-up of the Spica calculations we did in class on Nov. 2 &mdash; Finally, we will do Exercise 7.5 together in class
+* Thursday, Nov. 9 &mdash; We augmented our Venus plots by computing the ecliptic longitude of Venus on Oct. 16 &mdash; We reviewed the terminology that Evans introduces with planetary theory &mdash;  I handed out an improved version of the Spica calculations we did in class on Nov. 2 &mdash; Finally, we did Exercise 7.5 (Jupiter's tropical and synodic period) together in class
 
-### Week 11
+### Week 11 &mdash; Planetary Theory
 
-* Monday, Nov. 13 (through p. 328, through Babylonian &ldquo;System A&rdquo;)
-* Thursday, Nov. 16 (through 7.13, p. 347)
+* Preparation for Monday, Nov. 13 &mdash; Read Evans through Babylonian System A, p. 328 &mdash; As Assignment 10, do Evans Ex. 7.8 p. 316
+* Monday, Nov. 13 &mdash; Carried forward from Oct. 30: Mac and Brian will produce a handout on Exercise 5.10
+
+#### All readings and assignments in parenthesis are tentative!!
+
+* Thursday, Nov. 16 (through 7.13, p. 347, 7.11 p. 334 or 7.14 p. 337 in class)
 
 ### Week 12
 
-* Monday, Nov. 20 (through 7.18, p. 362)
+* Monday, Nov. 20 (through 7.18, p. 362, 7.16 Ptolemaic slats as Assignment 11 and 7.18 in class)
 * Thursday, Nov. 23 &mdash; No class Thanksgiving holiday
 
 ### Week 13
 
-* Monday, Nov. 27 (through 7.24, p. 384, another kind of big reading, but we have a whole week between classes)
+* Monday, Nov. 27 (through 7.24, p. 384, another kind of big reading, but we have a whole week between classes, 7.22 as Assignment 12 and 7.24 in class)
 * Thursday, Nov. 30 (through 7.26, p. 403)
 
 ### Week 14 &mdash; Copernicus
@@ -57,9 +61,9 @@ We will almost surely want to make adjustments as we go.
 * Monday, Dec. 11 &mdash; [Final](./exams/Term2Exam.pdf)
 * Thursday, Dec. 14 (through 7.31, p. 443)
 
-<img src="./resources/ItIs252OnOct30Not324.jpeg" alt="It is 2:52 on Oct 30 not 3:24" width="70%">
+<img src="./resources/VenusAndMoonNearConjunction.jpeg" alt="Venus and Moon near Conjunction, Nov. 9, 2023" width="70%">
 
-#### 2:52pm on Oct. 30
+<!-- <img src="./resources/ItIs252OnOct30Not324.jpeg" alt="It is 2:52 on Oct 30 not 3:24" width="70%"> -->
 
 <!-- <img src="./assignments/venus_plotting/Venus-Sept29-559am.jpeg" alt="Venus Sept. 29 5:59am" width="70%"> -->
 
