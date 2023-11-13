@@ -18,14 +18,8 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 10 Finish the Fixed Stars &mdash; Observing at the College Observatory &mdash; Start Babylonian Planetary Theory
 
-* Monday, Nov. 6 &mdash; Meet at the SUVs at 5am &mdash; We'll observe Jupiter, Venus, and the Moon with a 10&rdquo; telescope
-* Wednesday, Nov. 8 &mdash; A second, totally optional, observing session &mdash; Meet Hexi on the front steps at 7:45pm &mdash; *Bring a headlamp, there will be no moonlight* &mdash; We'll be observing Saturn, and the Andromeda Galaxy, and maybe we will get a sharper view of Jupiter
-
-#### Setting our pace for the remainder of the course
-
-We have only one chapter to finish Weeks 11-15, but it is the longest!
-To be more quantitative, we have 155 pages in 31 sections to cover in those eight classes.
-
+* Monday, Nov. 6 &mdash; Meet at 5am &mdash; We'll observe Jupiter, Venus, and the Moon with a 10&rdquo; telescope
+* Wednesday, Nov. 8 &mdash; Meet at 7:45pm &mdash; *Bring a headlamp, there will be no moonlight* &mdash; We'll be observing Saturn, and the Andromeda Galaxy, and maybe we will get a sharper view of Jupiter
 * Preparation for Thursday, Nov. 9 &mdash; Read Evans 6.6 through 7.6, p. 312 &mdash; To make this reading slightly more manageable, you can just skim 6.9 and 6.10 because the motion called &ldquo;trepidation&rdquo; was just a giant misunderstanding about how the data was recorded
 * Thursday, Nov. 9 &mdash; We augmented our Venus plots by computing the ecliptic longitude of Venus on Oct. 16 &mdash; We reviewed the terminology that Evans introduces with planetary theory &mdash;  I handed out an improved version of the Spica calculations we did in class on Nov. 2 &mdash; Finally, we did Exercise 7.5 (Jupiter's tropical and synodic period) together in class
 
@@ -35,7 +29,7 @@ To be more quantitative, we have 155 pages in 31 sections to cover in those eigh
 * Monday, Nov. 13 &mdash; We used a high-quality gyroscope to gain some intuition about precession &mdash; Mac and Brian presented and gave out handouts on Exercise 5.10, Part 6, the calculation of the Equation of Time &mdash; We went through some high points of Assignment 10 and delayed the due date until Thursday &mdash; We looked at Babylonian System A
 * Preparation for Thursday, Nov. 16 &mdash; Finish the &ldquo;goal year&rdquo; assignment (Assigment 10) if you haven't already &mdash; Read Evans through 7.13, p. 347 &mdash; We will do Evans Ex. 7.11, p. 334 in class &mdash; Only if there is time, we will also look at Evans Ex. 7.14, p. 347 in class
 
-#### Below I have estimated how we will pace the remaining reading (in parenthesis after each date) to make sure that we get all the way to Kepler in the final class. We may want to make adjustments as we go., so all readings and assignments in parenthesis are tentative!!
+#### Below I have estimated how we will pace the final chapter (in parenthesis after each date) to make sure that we get all the way to Kepler. We may want to make adjustments as we go, so all readings and assignments in parenthesis are tentative!
 
 ### Week 12 &mdash; Ptolemaic Slats
 
@@ -44,7 +38,7 @@ To be more quantitative, we have 155 pages in 31 sections to cover in those eigh
 
 ### Week 13
 
-* Monday, Nov. 27 (through 7.24, p. 389; our last big reading, 27pp, but we have a whole week between classes, and having one more big reading now means that the remaining four readings can be modest; consider 7.22 as Assignment 12; consider 7.24 in class)
+* Monday, Nov. 27 (through 7.24, p. 389; our last larger-than-normal reading, 27pp, but we have a whole week between classes, and having a larger-than-normal reading now means that the remaining four readings can be modest; consider Ex. 7.22 for Assignment 12; consider Ex. 7.24 in class)
 * Thursday, Nov. 30 (through 7.26, p. 403, 14pp)
 
 ### Week 14 &mdash; Copernicus
