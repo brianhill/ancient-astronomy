@@ -31,7 +31,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 12 &mdash; Ptolemy's Epicyclic Theory &mdash; Construction of Ptolemaic Slats
 
-* Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351 &mdash; This is the Ptolemaic slats project, and it requires some art-project type materials &mdash; I will be working on Assignment 11 over the weekend, and I welcome collaboration &mdash; Finally, we'll do Ex. 7.18 together in class, like we did with Ex. 7.11, so you don't need to prepare it
+* Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351, which is the Ptolemaic slats project, and it requires some arts-and-crafts type work, starting with printing the [Ptolemaic slats onto 11x17](./assignments/PtolemaicSlatsFor11x17.pdf) paper at 100% &mdash; Finally, we'll do Ex. 7.18 together in class, like we did with Ex. 7.11, so you don't need to prepare it
 
 #### *__The readings in parenthesis are tentative, and the assignments are even more tentative.__*
 
