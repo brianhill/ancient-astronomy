@@ -31,19 +31,23 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 12 &mdash; Ptolemy's Epicyclic Theory &mdash; Construction of Ptolemaic Slats
 
-* Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351, Parts 1-5 only &mdash; this is the Ptolemaic slats project, and it requires some arts-and-crafts type work, starting with printing the [Ptolemaic slats onto 11x17](./assignments/ptolemaic_slats/PtolemaicSlatsFor11x17.pdf) paper at 100% &mdash; Finally, we'll do Ex. 7.18 together in class, like we did with Ex. 7.11, so you don't need to prepare it
+* Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351, the Ptolemaic Slats Project, Parts 1-5 only &mdash; The Ptolemaic slats project requires some arts-and-crafts type work, starting with printing the [Ptolemaic slats onto 11x17](./assignments/ptolemaic_slats/PtolemaicSlatsFor11x17.pdf) paper at 100% &mdash; Finally, we'll start Ex. 7.18 together in class, like we did with Ex. 7.11
 
-#### *__The readings in parenthesis are tentative, and the assignments are even more tentative.__*
 
 ### Week 13 &mdash; Ptolemy's Epicyclic Theory through the Middle Ages
 
-* Monday, Nov. 27 (through 7.24, p. 389; our last larger-than-normal reading, 27pp, but we have a whole week between the Nov. 20 and Nov. 27 classes, and having a larger-than-normal reading now means that the remaining four readings can be modest; we'll consider Ex. 7.22 for Assignment 12; and we'll consider doing Ex. 7.24 in class)
-* Thursday, Nov. 30 (through 7.26, p. 403, 14pp)
+* Preparation for Monday, Nov. 27 &mdash; Evans through 7.22, p. 372 &mdash; As Assignment 12, Finish Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall) &mdash; Finally, we'll start Ex. 7.22 together in class, so you don't have to prepare it
+
+#### *__Personally, I have had my fill of these detailed Ptolemaic calculations. I therefore propose we skip 7.23 and 7.24 and dearly hope that doesn't prevent us from understanding the rest of the material.__*
+
+* Thursday, Nov. 30 &mdash; 7.25 and 7.26, to p. 403, 14pp
 
 ### Week 14 &mdash; Copernicus and the Renaissance
 
-* Monday, Dec. 4 (through 7.29, p. 414, 11pp)
-* Thursday, Dec. 7 (through 7.30, p. 427, 13pp)
+#### *__The readings in parenthesis below are tentative, and the assignments are even more tentative.__*
+
+* Monday, Dec. 4 &mdash; through 7.29, p. 414, 11pp &mdash; Assignment 12 TBD
+* Thursday, Dec. 7 &mdash; hrough 7.30, p. 427, 13pp
 
 ### Week 15 &mdash; Final &mdash; Kepler
 
