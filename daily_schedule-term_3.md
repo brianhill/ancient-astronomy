@@ -36,9 +36,9 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 13 &mdash; Ptolemy's Epicyclic Theory  &mdash; Ptolemy's Cosmology &mdash; Cosmology through The Middle Ages
 
-* Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall) &mdash; Finally, we'll start Ex. 7.20, Parts 1-6 only, together in class, so you don't have to prepare it, and we won't do Evans Ex. 7.22
+* Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall) &mdash; Finally, we'll do Ex. 7.20, Parts 1-5 only, together in class, so you don't have to prepare it, and we won't do Evans Ex. 7.22
 
-#### *__Personally, I have had my fill of these detailed Ptolemaic calculations and am dying to get to Kepler. Therefore, I propose we skip all the way to 7.25 for Thursday. What do y'all think? Also, jumping some is necessary if we want a taste of modern astronomy (Evans Section 7.31 on Kepler), as our last and most triumphant reading on Thursday, Dec. 14.__*
+#### *__Personally, I have had my fill of these detailed Ptolemaic calculations and am dying to get to Kepler. Therefore, I propose we skip all the way to 7.25 for Thursday. What do y'all think? Also, jumping some is necessary if we want a taste of modern astronomy (Evans Section 7.31 on Kepler) as our last, triumphant reading on Thursday, Dec. 14.__*
 
 * Preparation for Thursday, Nov. 30 &mdash; Evans 7.25 and 7.26
 
