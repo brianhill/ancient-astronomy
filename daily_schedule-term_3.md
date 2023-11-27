@@ -38,13 +38,13 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall) &mdash; Finally, we'll start Ex. 7.20, Parts 1-6 only, together in class, so you don't have to prepare it, and we won't do Evans Ex. 7.22
 
-#### *__Personally, I have had my fill of these detailed Ptolemaic calculations and am dying to get to Kepler. I propose we skip all the way to 7.25 for Thursday and hope that that won't prevent us from understanding the rest of the material. What do y'all think? Also, jumping some is necessary if we want a taste of modern astronomy, Evans Section 7.31 on Kepler, as our last and possibly most triumphant reading on Thursday, Dec. 14.__*
+#### *__Personally, I have had my fill of these detailed Ptolemaic calculations and am dying to get to Kepler. Therefore, I propose we skip all the way to 7.25 for Thursday. What do y'all think? Also, jumping some is necessary if we want a taste of modern astronomy (Evans Section 7.31 on Kepler), as our last and most triumphant reading on Thursday, Dec. 14.__*
 
 * Preparation for Thursday, Nov. 30 &mdash; Evans 7.25 and 7.26
 
 ### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus
 
-* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, would be Ex. 7.27 (a big gluing, scissoring, and threading project)
+* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, I propose to be Ex. 7.27 (a big gluing, scissoring, and threading project!)
 * Preparation for Thursday, Dec. 7 &mdash; Read and come prepared to discuss Evans 7.30
 * Thursday, Dec. 7 &mdash; Discuss Copernicus &mdash; Review for Final
 
@@ -52,5 +52,6 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Monday, Dec. 11 &mdash; [Final](./exams/Term2Exam.pdf)
 * Preparation for Thursday, Dec. 14 &mdash; Evans 7.31
+* Thursday, Dec. 14 &mdash; Discuss Kepler
 
 <a href="https://www.youtube.com/watch?v=EpSy0Lkm3zM"><img src="./resources/Epicycles.png" alt="Image linked to YouTube animation of Ptolemy's Epicycles" width="100%"></a>
