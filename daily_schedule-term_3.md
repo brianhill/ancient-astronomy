@@ -33,19 +33,17 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351, the Ptolemaic Slats Project, Parts 1-5 only &mdash; The Ptolemaic slats project requires some arts-and-crafts type work, starting with printing the [Ptolemaic slats onto 11x17](./assignments/ptolemaic_slats/PtolemaicSlatsFor11x17.pdf) paper at 100% &mdash; Finally, we'll start Ex. 7.18 together in class, like we did with Ex. 7.11
 
-### Week 13 &mdash; Ptolemy's Epicyclic Theory  &mdash; Ptolemy's Cosmology &mdash; Cosmology through The Middle Ages
+### Week 13 &mdash; Ptolemy's Parameters for each Planet's Epicycles &mdash; Ptolemaic Cosmology &mdash; Cosmology through The Middle Ages
 
-* Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall) &mdash; Finally, we'll do Ex. 7.20, Parts 1-5 only, together in class, so you don't have to prepare it, and we won't do Evans Ex. 7.22
+* Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall)
+* Monday, Nov. 27 &mdash; We reviewed the theory in Evans 7.19 &mdash; In class, we did Evans Ex. 7.20 Parts 1-4 &mdash; We quickly sketched out how you would do Part 5
+* Preparation for Thursday, Nov. 30 &mdash; __Skip__ Evans 7.23 and 7.24, unless you want even more calculations like those we did on Monday &mdash; Read Evans 7.25 and 7.26 (pp. 384-403) &mdash; Presentation assignment ideas, but you may do others &mdash; Somebody: Review the diagram and theory behind &sigma;+&tau;=P<sub>M</sub>+P<sub>S</sub>&mdash; Somebody: The life and times of Thabit ibn Qurra &mdash; Somebody: The Errant Predictions of Ptolemy's lunar theory &mdash; Somebody: The life and times of Regiomontus &mdash; Brian: Compare Tables 7.10 and 7.11 with modern values
 
-#### *__Personally, I have had my fill of these detailed Ptolemaic calculations and am dying to get to Kepler. Therefore, I propose we skip all the way to 7.25 for Thursday. What do y'all think? Also, jumping some is necessary if we want a taste of modern astronomy (Evans Section 7.31 on Kepler) as our last, triumphant reading on Thursday, Dec. 14.__*
+### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus and Heliocentric Cosmology
 
-* Preparation for Thursday, Nov. 30 &mdash; Evans 7.25 and 7.26
-
-### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus
-
-* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, I propose to be Ex. 7.27 (a big gluing, scissoring, and threading project!)
-* Preparation for Thursday, Dec. 7 &mdash; Read and come prepared to discuss Evans 7.30
-* Thursday, Dec. 7 &mdash; Discuss Copernicus &mdash; Review for Final
+* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, is Ex. 7.28 &mdash; The Aequetorium is a big gluing, scissoring, and threading project! &mdash; We can use a bunch of class time for it
+* Preparation for Thursday, Dec. 7 &mdash; Read Evans 7.30 &mdash; Come prepared to debate the merits of 7.29 and 7.30: Heliocentric cosmology vs. Earth-centered cosmology
+* Thursday, Dec. 7 &mdash; Cosmological Debate &mdash; Review for Final
 
 ### Week 15 &mdash; Final &mdash; Kepler
 
