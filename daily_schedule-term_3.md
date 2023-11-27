@@ -33,7 +33,6 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351, the Ptolemaic Slats Project, Parts 1-5 only &mdash; The Ptolemaic slats project requires some arts-and-crafts type work, starting with printing the [Ptolemaic slats onto 11x17](./assignments/ptolemaic_slats/PtolemaicSlatsFor11x17.pdf) paper at 100% &mdash; Finally, we'll start Ex. 7.18 together in class, like we did with Ex. 7.11
 
-
 ### Week 13 &mdash; Ptolemy's Epicyclic Theory  &mdash; Ptolemy's Cosmology &mdash; Cosmology through The Middle Ages
 
 * Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall) &mdash; Finally, we'll do Ex. 7.20, Parts 1-5 only, together in class, so you don't have to prepare it, and we won't do Evans Ex. 7.22
