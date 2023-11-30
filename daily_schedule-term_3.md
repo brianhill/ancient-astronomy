@@ -31,13 +31,14 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 12 &mdash; Ptolemy's Epicyclic Theory &mdash; Construction of Ptolemaic Slats
 
-* Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351, the Ptolemaic Slats Project, Parts 1-5 only &mdash; The Ptolemaic slats project requires some arts-and-crafts type work, starting with printing the [Ptolemaic slats onto 11x17](./assignments/ptolemaic_slats/PtolemaicSlatsFor11x17.pdf) paper at 100% &mdash; Finally, we'll start Ex. 7.18 together in class, like we did with Ex. 7.11
+* Preparation for Monday, Nov. 20 &mdash; Evans through 7.18, p. 362 &mdash; As Assignment 11, do Evans Exercise 7.16, p. 351, the Ptolemaic Slats Project, Parts 1-5 only &mdash; Start by printing the [Ptolemaic slats onto 11x17](./assignments/ptolemaic_slats/PtolemaicSlatsFor11x17.pdf) paper at 100% &mdash; Finally, we'll start Ex. 7.18 together in class, like we did with Ex. 7.11
 
 ### Week 13 &mdash; Ptolemy's Parameters for each Planet's Epicycles &mdash; Ptolemaic Cosmology &mdash; Cosmology through The Middle Ages
 
 * Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only
 * Monday, Nov. 27 &mdash; We reviewed the theory in Evans 7.19 &mdash; In class, we did Evans Ex. 7.20 Parts 1-4 and sketched how you would do Part 5
-* Preparation for Thursday, Nov. 30 &mdash; __Skip__ Evans 7.23 and 7.24, unless you are in the mood to do even more calculations like those we did on Monday &mdash; Read Evans 7.25 and 7.26 (pp. 384-403) &mdash; Presentations: Hexi, Review the diagram and theory behind &sigma;+&tau;=P<sub>M</sub>+P<sub>S</sub>; Mac, The life and times of Thabit ibn Qurra; Walker, The Errant Predictions of Ptolemy's lunar theory; Clara, The life and times of Regiomontus; Brian, Compare Tables 7.10 and 7.11 with modern values
+* Preparation for Thursday, Nov. 30 &mdash; __Skip__ Evans 7.23 and 7.24 &mdash; Read Evans 7.25 and 7.26 (pp. 384-403)
+* Thursday, Nov. 30 &mdash; Hexi: Review the diagram and theory behind &sigma;+&tau;=P<sub>M</sub>+P<sub>S</sub> &mdash; Mac: The life and times of Thabit ibn Qurra &mdash; Walker: The Errant Predictions of Ptolemy's lunar theory &mdash; Clara: The life and times of Regiomontus &mdash; Brian: [Compare Tables 7.10 and 7.11 with modern values](,/resources/SolarSystemSizes.pdf) &mdash; Show Wylie Overstreet video, [To Scale: The Solar System](https://youtu.be/zR3Igc3Rhfg), the Black Rock Desert scale model
 
 ### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus and Heliocentric Cosmology
 
