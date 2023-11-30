@@ -37,8 +37,8 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only
 * Monday, Nov. 27 &mdash; We reviewed the theory in Evans 7.19 &mdash; In class, we did Evans Ex. 7.20 Parts 1-4 and sketched how you would do Part 5
-* Preparation for Thursday, Nov. 30 &mdash; __Skip__ Evans 7.23 and 7.24 &mdash; Read Evans 7.25 and 7.26 (pp. 384-403)
-* Thursday, Nov. 30 &mdash; Hexi: Review the diagram and theory behind &sigma;+&tau;=P<sub>M</sub>+P<sub>S</sub> &mdash; Mac: The life and times of Thabit ibn Qurra &mdash; Walker: The Errant Predictions of Ptolemy's lunar theory &mdash; Clara: The life and times of Regiomontus &mdash; Brian: [Compare Tables 7.10 and 7.11 with modern values](,/resources/SolarSystemSizes.pdf) &mdash; Show Wylie Overstreet video, [To Scale: The Solar System](https://youtu.be/zR3Igc3Rhfg), the Black Rock Desert scale model
+* Preparation for Thursday, Nov. 30 &mdash; Skip Evans 7.23 and 7.24 and read Evans 7.25 and 7.26 (pp. 384-403) &mdash; Prepare presentations
+* Thursday, Nov. 30 &mdash; Hexi: Review the diagram and theory behind &sigma;+&tau;=P<sub>M</sub>+P<sub>S</sub> &mdash; Mac: The life and times of Thabit ibn Qurra &mdash; Walker: The Errant Predictions of Ptolemy's lunar theory &mdash; Clara: The life and times of Regiomontus &mdash; Brian: [Compare Tables 7.10 and 7.11 with modern values](./resources/SolarSystemSizes.pdf) &mdash; Show Wylie Overstreet video, [To Scale: The Solar System](https://youtu.be/zR3Igc3Rhfg), the Black Rock Desert scale model
 
 ### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus and Heliocentric Cosmology
 
