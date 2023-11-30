@@ -35,14 +35,14 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 13 &mdash; Ptolemy's Parameters for each Planet's Epicycles &mdash; Ptolemaic Cosmology &mdash; Cosmology through The Middle Ages
 
-* Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only (we started this together in class, and my solution is already on the corridor wall)
+* Preparation for Monday, Nov. 27 &mdash; Evans 7.19 to 7.22 &mdash; As Assignment 12, Finish Evans Ex. 7.18, Parts 1-4 only
 * Monday, Nov. 27 &mdash; We reviewed the theory in Evans 7.19 &mdash; In class, we did Evans Ex. 7.20 Parts 1-4 and sketched how you would do Part 5
-* Preparation for Thursday, Nov. 30 &mdash; __Skip__ Evans 7.23 and 7.24, unless you want even more calculations like those we did on Monday &mdash; Read Evans 7.25 and 7.26 (pp. 384-403) &mdash; Presentations: Hexi, Review the diagram and theory behind &sigma;+&tau;=P<sub>M</sub>+P<sub>S</sub>; Mac, The life and times of Thabit ibn Qurra; Walker, The Errant Predictions of Ptolemy's lunar theory; Clara, The life and times of Regiomontus; Brian, Compare Tables 7.10 and 7.11 with modern values
+* Preparation for Thursday, Nov. 30 &mdash; __Skip__ Evans 7.23 and 7.24, unless you are in the mood to do even more calculations like those we did on Monday &mdash; Read Evans 7.25 and 7.26 (pp. 384-403) &mdash; Presentations: Hexi, Review the diagram and theory behind &sigma;+&tau;=P<sub>M</sub>+P<sub>S</sub>; Mac, The life and times of Thabit ibn Qurra; Walker, The Errant Predictions of Ptolemy's lunar theory; Clara, The life and times of Regiomontus; Brian, Compare Tables 7.10 and 7.11 with modern values
 
 ### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus and Heliocentric Cosmology
 
-* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, not due till Thursday will be Ex. 7.28 &mdash; It is a big gluing, scissoring, and threading project! &mdash; We will use a bunch of class time to get your planetary equitoria started, and they won't be due until Thursday
-* Preparation for Thursday, Dec. 7 &mdash; Finish your equatoria &mdash; Read Evans 7.30 &mdash; Come prepared to debate the merits of 7.29 and 7.30: Heliocentric cosmology vs. Earth-centered cosmology
+* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, will be Ex. 7.28, [a planetary equatorium](./assignments/equatorium/AncientAstronomy-JamesEvans-Equatorium_at_115%.pdf) &mdash; It is a big gluing, scissoring, and threading project! &mdash; Do [Parts 1-6](./assignments/equatorium/AuxiliaryDirections.pdf) before Monday's class &mdash; We will use Monday's class to get the equitoria mostly done &mdash; The rest of the project and a calculation with it will be due Thursday
+* Preparation for Thursday, Dec. 7 &mdash; Finish your equatorium assignment &mdash; Read Evans 7.30 &mdash; Come prepared to debate the merits of 7.29 and 7.30: Heliocentric cosmology vs. Earth-centered cosmology
 * Thursday, Dec. 7 &mdash; Cosmological Debate &mdash; Review for Final
 
 ### Week 15 &mdash; Final &mdash; Kepler
