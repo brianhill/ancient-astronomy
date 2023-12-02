@@ -42,7 +42,7 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 ### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus and Heliocentric Cosmology
 
-* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, will be Ex. 7.28, [a planetary equatorium](./assignments/equatorium/AncientAstronomy-JamesEvans-Equatorium_at_115%.pdf) &mdash; It is a big gluing, scissoring, and threading project! &mdash; Do [Parts 1-6](./assignments/equatorium/AuxiliaryDirections.pdf) before Monday's class &mdash; We will use Monday's class to get the equitoria mostly done &mdash; The rest of the project and a calculation with it will be due Thursday
+* Preparation for Monday, Dec. 4 &mdash; Evans 7.27 to 7.29 &mdash; Your last assignment, Assignment 13, will be Ex. 7.28, [a planetary equatorium](./assignments/equatorium/AncientAstronomy-JamesEvans-Equatorium_at_115%.pdf) &mdash; It is a big gluing, scissoring, and threading project! &mdash; Do [Parts 1-6](./assignments/equatorium/AuxiliaryDirections.pdf) before Monday's class &mdash; We will use Monday's class to get the equatoria mostly done &mdash; The rest of the project and a calculation with it will be due Thursday
 * Preparation for Thursday, Dec. 7 &mdash; Finish your equatorium assignment &mdash; Read Evans 7.30 &mdash; Come prepared to debate the merits of 7.29 and 7.30: Heliocentric cosmology vs. Earth-centered cosmology
 * Thursday, Dec. 7 &mdash; Cosmological Debate &mdash; Review for Final
 
@@ -50,6 +50,6 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Monday, Dec. 11 &mdash; [Final](./exams/Term2Exam.pdf)
 * Preparation for Thursday, Dec. 14 &mdash; Evans 7.31
-* Thursday, Dec. 14 &mdash; Discuss Kepler
+* Thursday, Dec. 14 &mdash; Kepler's Laws
 
 <a href="https://www.youtube.com/watch?v=EpSy0Lkm3zM"><img src="./resources/Epicycles.png" alt="Image linked to YouTube animation of Ptolemy's Epicycles" width="100%"></a>
