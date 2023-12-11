@@ -43,15 +43,14 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 ### Week 14 &mdash; Planetary Equatoria &mdash; Copernicus and Heliocentric Cosmology
 
 * Preparation for Monday, Dec. 4 &mdash; Read Evans 7.27 to 7.29 &mdash; Our last project is Ex. 7.28, [a planetary equatorium](./assignments/equatorium/AncientAstronomy-JamesEvans-Equatorium_at_115%.pdf), do Parts 1-6 before class
-* Monday, Dec. 4 &mdash; We did most of Parts 7-10 of the equatoria in class (that went in fits and starts) &mdash; A primer using vectors on the relation between the Sun-centered and Earth-centered viewpoints (Section 7.29)
+* Monday, Dec. 4 &mdash; We did most of Parts 7-10 of the equatoria in class &mdash; A primer using vectors on the relation between the Sun-centered and Earth-centered viewpoints (Section 7.29)
 * Preparation for Thursday, Dec. 7 &mdash; Finish the equatorium and do a calculation with it as an extra credit assignment &mdash; Re-read Evans 7.29 thinking carefully about reference frames, and read Evans 7.30 &mdash; Come prepared to debate the two viewpoints in 7.29 and 7.30: Heliocentric cosmology vs. Earth-centered cosmology
 * Thursday, Dec. 7 &mdash; &mdash; Cosmological Debate: Mac, Clara, and Walker are Earth-centered; Brian, Hexi, and Rania are Sun-centered &mdash; Brahe's argument (using parallax) that the Earth must be still &mdash; Copernicus biographical sketch &mdash; Review list of topics for final
-* Sunday, Dec. 10, 1pm &mdash; Q&A in preparation for final
 
 ### Week 15 &mdash; Final &mdash; Kepler
 
-* Monday, Dec. 11 &mdash; [Final](./exams/Term2Exam.pdf)
-* Preparation for Thursday, Dec. 14 &mdash; Evans 7.31
+* Monday, Dec. 11 &mdash; [Final](./exams/Term3Exam.pdf)
+* Preparation for Thursday, Dec. 14 &mdash; Evans 7.31, but stop at p. 441, unless you want the additional technical details
 * Thursday, Dec. 14 &mdash; Kepler's Laws
 
 <img src="./resources/Frombork.png" alt="Panorama of Frombork from Wikipedia" width="100%">
