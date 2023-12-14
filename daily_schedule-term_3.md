@@ -51,6 +51,6 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 
 * Monday, Dec. 11 &mdash; [Final](./exams/Term3Exam.pdf)
 * Preparation for Thursday, Dec. 14 &mdash; Evans 7.31, but stop at p. 441, unless you want the additional technical details
-* Thursday, Dec. 14 &mdash; [Sun-centered understanding of retrograde motion](./resources/MarsRetrogradeMotionConstruction.pdf) &mdash; Construction and properties of Ellipses and Kepler's First Law &mdash; Kepler's [Second](./Keplers2ndAndEarthSpeed.jpg) Law &mdash; Eccentricity of Mars &mdash; Kepler's Third Law
+* Thursday, Dec. 14 &mdash; [Sun-centered understanding of retrograde motion](./resources/MarsRetrogradeMotionConstruction.pdf) &mdash; Construction and properties of Ellipses and Kepler's First Law &mdash; Kepler's [Second](./resources/Keplers2ndAndEarthSpeed.jpg) Law &mdash; Eccentricity of Mars &mdash; Kepler's Third Law
 
 <img src="./resources/Frombork.png" alt="Panorama of Frombork from Wikipedia" width="100%">
