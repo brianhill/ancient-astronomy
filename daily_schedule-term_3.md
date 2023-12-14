@@ -45,14 +45,12 @@ See also: [Daily Schedule Term 2](./daily_schedule-term_2.html)
 * Preparation for Monday, Dec. 4 &mdash; Read Evans 7.27 to 7.29 &mdash; Our last project is Ex. 7.28, [a planetary equatorium](./assignments/equatorium/AncientAstronomy-JamesEvans-Equatorium_at_115%.pdf), do Parts 1-6 before class
 * Monday, Dec. 4 &mdash; We did most of Parts 7-10 of the equatoria in class &mdash; A primer using vectors on the relation between the Sun-centered and Earth-centered viewpoints (Section 7.29)
 * Preparation for Thursday, Dec. 7 &mdash; Finish the equatorium and do a calculation with it as an extra credit assignment &mdash; Re-read Evans 7.29 thinking carefully about reference frames, and read Evans 7.30 &mdash; Come prepared to debate the two viewpoints in 7.29 and 7.30: Heliocentric cosmology vs. Earth-centered cosmology
-* Thursday, Dec. 7 &mdash; &mdash; Cosmological Debate: Mac, Clara, and Walker are Earth-centered; Brian, Hexi, and Rania are Sun-centered &mdash; Brahe's argument (using parallax) that the Earth must be still &mdash; Copernicus biographical sketch &mdash; Review list of topics for final
+* Thursday, Dec. 7 &mdash; &mdash; Cosmological Debate: Mac, Clara, and Walker are Earth-centered; Brian, Hexi, and Rania are Sun-centered &mdash; Brahe's argument (using parallax) that the Earth must be still &mdash; Copernicus biographical sketch &mdash; [Scenes from Frombork](./resources/Frombork.pdf) &mdash; Review for final
 
-### Week 15 &mdash; Final &mdash; Kepler
+### Week 15 &mdash; Final &mdash; Kepler's Laws
 
 * Monday, Dec. 11 &mdash; [Final](./exams/Term3Exam.pdf)
 * Preparation for Thursday, Dec. 14 &mdash; Evans 7.31, but stop at p. 441, unless you want the additional technical details
-* Thursday, Dec. 14 &mdash; Kepler's Laws
+* Thursday, Dec. 14 &mdash; [Sun-centered understanding of retrograde motion](./resources/MarsRetrogradeMotionConstruction.pdf) &mdash; Construction and properties of Ellipses and Kepler's First Law &mdash; Kepler's [Second](./Keplers2ndAndEarthSpeed.jpg) Law &mdash; Eccentricity of Mars &mdash; Kepler's Third Law
 
 <img src="./resources/Frombork.png" alt="Panorama of Frombork from Wikipedia" width="100%">
-
-<!-- ><a href="https://www.youtube.com/watch?v=EpSy0Lkm3zM"><img src="./resources/Epicycles.png" alt="Image linked to YouTube animation of Ptolemy's Epicycles" width="100%"></a> -->
