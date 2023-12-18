@@ -1,0 +1,204 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      8422,        196]
+NotebookOptionsPosition[      7229,        165]
+NotebookOutlinePosition[      7677,        183]
+CellTagsIndexPosition[      7634,        180]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[TextData[StyleBox["Ancient Astronomy, Assignment 10 for Monday, Nov. 13",
+ 
+ FontSize->28]], "Chapter",
+ CellChangeTimes->{{3.902324780006513*^9, 3.9023247897146997`*^9}, {
+  3.902343612958332*^9, 3.902343668105324*^9}, {3.902344437424121*^9, 
+  3.902344438674733*^9}, {3.902688198161932*^9, 3.902688210170267*^9}, {
+  3.902930581038875*^9, 3.90293058270744*^9}, {3.9031851047434187`*^9, 
+  3.903185107369246*^9}, {3.904140031595475*^9, 3.9041400320369463`*^9}, {
+  3.9042193971423817`*^9, 3.90421939769388*^9}, {3.9042790545358677`*^9, 
+  3.90427909550744*^9}, {3.904502802623962*^9, 3.904502804025161*^9}, {
+  3.9118595934831*^9, 
+  3.9118595999057302`*^9}},ExpressionUUID->"4a21b101-ac6c-49ad-9e17-\
+57bd2a7d7dbb"],
+
+Cell["\<\
+
+Evans Ex. 7.8, p. 316\
+\>", "Subtitle",
+ CellChangeTimes->{{3.904502937448839*^9, 3.904502947384427*^9}, {
+   3.9118596127874947`*^9, 3.9118596266477947`*^9}, 
+   3.911861868793646*^9},ExpressionUUID->"f3af104a-f6b1-4f43-89b9-\
+e07b36ced780"],
+
+Cell[CellGroupData[{
+
+Cell["Part 1. Using the 12-year cycle", "Section",
+ CellChangeTimes->{{3.904503024011595*^9, 3.90450303955698*^9}, {
+  3.904504065074451*^9, 3.9045041703397017`*^9}, {3.904504203448078*^9, 
+  3.904504203853216*^9}, {3.9118596733145037`*^9, 3.911859694329712*^9}},
+ FontSize->18,ExpressionUUID->"761a843f-a4b0-4ab4-87c0-cba0a32fa78f"],
+
+Cell["\<\
+The idea is to use the 1971 positions of Jupiter to predict the 1983 positions.
+
+In 1971, retrograde began at 247\.ba on March 29. In 1983, retrograde began \
+at 251\.ba on April 15. So, is everything shifted by 4\.ba and 17 days?
+
+In 1971 retrograde ended with Jupiter at 236\.ba on July 27. Adding 4\.ba and \
+17 days, we predict 240\.ba and Aug. 13 as the end of retrograde in 1983.
+
+Actually it ended July 24 at 241\.ba. We were just 1\.ba off on the \
+longitude, but frankly, we did pretty badly on the date.
+
+It is common to predict the conjunction with Regulus or Spica. However, \
+Jupiter did not have conjunctions with Regulus or Spica in 1971 or 1983.
+
+So how about we just do some arbitrary ecliptic longitude, like 250\.ba? In \
+1971 that was Nov. 9. So we predict 254\.ba on Nov. 26 in 1983. 254\.ba \
+actually occurred on Nov. 11.\
+\>", "Text",
+ CellChangeTimes->{{3.9045042114684343`*^9, 3.904504443244474*^9}, {
+  3.9118596985037127`*^9, 3.9118598325857*^9}, {3.9118598868685913`*^9, 
+  3.911860109787806*^9}, {3.91186014855796*^9, 3.911860148738089*^9}, {
+  3.911861864909151*^9, 3.911861866093698*^9}, {3.9118618991474237`*^9, 
+  3.911861925653928*^9}},ExpressionUUID->"d6a37ac9-6c04-49f5-95a5-\
+c80399c08a01"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Part 2. A shorter cycle for Mercury", "Section",
+ CellChangeTimes->{{3.904503024011595*^9, 3.90450303955698*^9}, {
+  3.904504065074451*^9, 3.9045041703397017`*^9}, {3.904504203448078*^9, 
+  3.904504203853216*^9}, {3.9118596733145037`*^9, 3.911859694329712*^9}, {
+  3.911860153080617*^9, 3.911860161001574*^9}},
+ FontSize->18,ExpressionUUID->"b8c6238a-9c42-47bf-bd67-f4200ce1ebca"],
+
+Cell["\<\
+The \[OpenCurlyDoubleQuote]first stations\[CloseCurlyDoubleQuote] of Mercury \
+(meaning the beginning of the first retrograde of the year) are:
+
+1971 Apr 8, 34\.ba
+1972 Mar 23, 16\.ba
+1973 Mar 8, 356\.ba
+1974 Feb 11, 341\.ba
+1975 Jan 27, 325\.ba
+1976 Jan 12, 310\.ba
+1977 Apr 16, 45\.ba
+
+Comparing 1971 and 1977, we have a 6-year cycle that puts Mercury 8 days and \
+11\.ba later in 1977 than 1971.\
+\>", "Text",
+ CellChangeTimes->{{3.9045042114684343`*^9, 3.904504443244474*^9}, {
+  3.9118596985037127`*^9, 3.9118598325857*^9}, {3.9118598868685913`*^9, 
+  3.911860109787806*^9}, {3.91186014855796*^9, 3.911860148738089*^9}, {
+  3.911860182140325*^9, 3.911860339931899*^9}, {3.911860798169503*^9, 
+  3.911860800599885*^9}},ExpressionUUID->"f86a9a88-684f-4df6-9ba4-\
+9b2ddcf9e5d5"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Part 3. A goal-year text for 2023", "Section",
+ CellChangeTimes->{{3.904503024011595*^9, 3.90450303955698*^9}, {
+  3.904504065074451*^9, 3.9045041703397017`*^9}, {3.904504203448078*^9, 
+  3.904504203853216*^9}, {3.9118596733145037`*^9, 3.911859694329712*^9}, {
+  3.911860153080617*^9, 3.911860161001574*^9}, {3.911860351744138*^9, 
+  3.911860376293071*^9}},
+ FontSize->18,ExpressionUUID->"eedbbac1-a6f9-4244-8cb2-45744c31a247"],
+
+Cell["\<\
+The idea would be to subtract multiples of 12 for Jupiter until you are in \
+the range of the tables at the beginning of Chapter 7. Subtracting 4x12 gets \
+us 1975. Evans suggests the 15-year cycle for Mars (if the dates work out). \
+Subtracting 3x15 gives 1978. Evans suggests the 8-year cycle for Venus, and \
+subtracting 6x8 gives us 1975. Finally, Evans suggests the 6-year cycle for \
+Mercury, and subtracting 8x6 again gives us 1975.
+
+Jupiter First Station (start of first retrograde) 1975 = Aug 25
+Jupiter Second Station (end of first retrograde) 1975 = Nov 23
+Jupiter Conjunction with Regulus (ecliptic longitude 150\.ba) 1975 = N/A
+Jupiter Conjunction with Spica (ecliptic longitude 203\.ba) 1975 = N/A
+
+Mars First Station (start of first retrograde) 1978 = Dec 12 (1977)
+Mars Second Station (end of first retrograde) 1978 = Mar 22
+Mars Conjunction with Regulus (ecliptic longitude 150\.ba) 1978 = Jun 14
+Mars Conjunction with Spica (ecliptic longitude 203\.ba) 1978 = Sep 9
+
+Venus First Station (start of first retrograde) 1975 = Aug 5
+Venus Second Station (end of first retrograde) 1975 = Sep 14
+Venus Conjunction with Regulus (ecliptic longitude 150\.ba) 1975 = Jul 9
+Venus Conjunction with Spica (ecliptic longitude 203\.ba) 1975 = Nov 30
+ 
+Mercury First Station (start of first retrograde) 1975 = Jan 27
+Mercury Second Station (end of first retrograde) 1975 = Feb 16
+Mercury Conjunction with Regulus (ecliptic longitude 150\.ba) 1975 = Aug 3
+Mercury Conjunction with Spica (ecliptic longitude 203\.ba) 1975 = Nov 1\
+\>", "Text",
+ CellChangeTimes->{{3.9045042114684343`*^9, 3.904504443244474*^9}, {
+  3.9118596985037127`*^9, 3.9118598325857*^9}, {3.9118598868685913`*^9, 
+  3.911860109787806*^9}, {3.91186014855796*^9, 3.911860148738089*^9}, {
+  3.911860182140325*^9, 3.911860339931899*^9}, {3.911860477146734*^9, 
+  3.9118606738730173`*^9}, {3.911860724997602*^9, 3.9118609974721947`*^9}, {
+  3.911861089131362*^9, 3.911861099716823*^9}, {3.911861134425207*^9, 
+  3.911861144077345*^9}, {3.911861284913323*^9, 3.911861316537965*^9}, {
+  3.911861584064883*^9, 3.911861589240039*^9}, {3.911861620246714*^9, 
+  3.911861622507133*^9}, {3.911861654784732*^9, 3.911861694814918*^9}, {
+  3.911861744453073*^9, 3.911861751237382*^9}, {3.911861796621396*^9, 
+  3.91186182078727*^9}},ExpressionUUID->"c303c6db-1549-46be-b35c-\
+d2ec5c23f3e2"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{808, 911},
+WindowMargins->{{256, Automatic}, {Automatic, 60}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"13.3 for Mac OS X ARM (64-bit) (July 24, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"00e41a62-e1d9-4b2a-93bf-09480762f3bd"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 722, 12, 61, "Chapter",ExpressionUUID->"4a21b101-ac6c-49ad-9e17-57bd2a7d7dbb"],
+Cell[1305, 36, 253, 7, 85, "Subtitle",ExpressionUUID->"f3af104a-f6b1-4f43-89b9-e07b36ced780"],
+Cell[CellGroupData[{
+Cell[1583, 47, 333, 4, 54, "Section",ExpressionUUID->"761a843f-a4b0-4ab4-87c0-cba0a32fa78f"],
+Cell[1919, 53, 1238, 24, 380, "Text",ExpressionUUID->"d6a37ac9-6c04-49f5-95a5-c80399c08a01"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3194, 82, 386, 5, 54, "Section",ExpressionUUID->"b8c6238a-9c42-47bf-bd67-f4200ce1ebca"],
+Cell[3583, 89, 790, 20, 265, "Text",ExpressionUUID->"f86a9a88-684f-4df6-9ba4-9b2ddcf9e5d5"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4410, 114, 433, 6, 54, "Section",ExpressionUUID->"eedbbac1-a6f9-4244-8cb2-45744c31a247"],
+Cell[4846, 122, 2355, 39, 564, "Text",ExpressionUUID->"c303c6db-1549-46be-b35c-d2ec5c23f3e2"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
