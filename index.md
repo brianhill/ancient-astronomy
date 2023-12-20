@@ -8,13 +8,11 @@ A [PDF of the Syllabus](./AncientAstronomySyllabus.pdf) containing essentially t
 
 ## Overview
 
-ldquo rdquo
+It is perhaps arbitrary where one might stop in the history of astronomy and astrophysics and deem whatever follows to be “modern.” For our purposes, “ancient” means anything and everything up to but not including or beyond Brahe, Kepler, and Galileo. The shift that occurred very roughly at 1600, although actually it was progressive, not sudden, was to a process of increasing exactitude that began with Brahe’s careful multi-decade observations at Uraniborg, Kepler’s painstaking analyses of these observations, and which then accelerated massively by the invention and use of the telescope.
 
-It is perhaps arbitrary where one might stop in the history of astronomy and astrophysics and deem whatever follows to be “modern.” For our purposes, “ancient” means anything and everything up to but not including or beyond Brahe, Kepler, and Galileo. The shift that occurred very roughly at 1600, although actually it was progressive, not sudden, was to a process of increasing exactitude that began with Brahe’s careful observations at Uraniborg, and then accelerated massively by the invention and use of the telescope.
+I could not create a survey of pre-telescopic astronomy myself; my understanding of astronomy and physics starts with Kepler, Galileo, and Newton, and so I will be learning the history prior to this along with you. Our author and guide to ancient astronomy is James Evans. He is principally focused on the astronomy of the Greeks. His reasons are two-fold: (1) prior to the Greeks, astronomy was qualitative, and (2) for century after century following the Greeks, Ptolemy’s Almagest held sway, even as it was translated, commented on, and elaborated.
 
-I could not create a survey of pre-telescopic astronomy myself; my understanding of astronomy and astrophysics and its instrumentation starts with Kepler and his Three Laws, and so I will be learning the history prior to this along with you. Our author and guide to ancient astronomy James Evans. He is principally focused on the astronomy of the Greeks. His reasons are two-fold: (1) prior to the Greeks, astronomy was qualitatitve, and (2) for century after century following the Greeks, Ptolemy’s Almagest held sway, even as it was translated, commented on, and elaborated.
-
-Even Copernicus in 1543, while disputing the Earth-centered universe in his On the Revolutions of the Heavenly Spheres, is tremendously influenced by Ptolemy. Only towards the end of our course will we get to Copernicus, and then finally leave the ancient Ptolemaic view with the observations and theories of Brahe and Kepler.
+Even Copernicus in 1543, while disputing the Earth-centered universe in his On the Revolutions of the Heavenly Spheres, was tremendously influenced by Ptolemy. Only towards the end of our course will we get to Copernicus, and then finally leave the ancient Ptolemaic view behind with the observations and theories of Brahe and Kepler.
 
 ## Daily Schedules
 
@@ -27,7 +25,7 @@ Detailed daily schedules will be kept retrospectively:
 
 ### Term 2
 
-Please examine the table of contents of Evans' book that we will be using as our guide. His broad outline fits into our Term 2 as:
+Examine the table of contents of Evans' book that we will be using as our guide. The broad outline fits into our Term 2 as:
 
 1. The Birth of Astronomy
 2. The Celestial Sphere
@@ -47,7 +45,6 @@ Evans' [Full Table of Contents](./AncientAstronomyFullTableOfContents-JamesEvans
 ## Text
 
 * [*The History and Practice of Ancient Astronomy*](https://www.amazon.com/History-Practice-Ancient-Astronomy/dp/0195095391), by James Evans
-* Historical readings to be selected
 
 ## Grading and Homework
 
